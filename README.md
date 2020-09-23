@@ -84,7 +84,7 @@ To encourage our community-driven governance, Defy Fund investors and liquidity 
 
 ### What is Prodefy?
 
-iob Prodefy is a unifying multi-financial protocols communication platform connecting FIX \(Financial Information eXchange\) protocol, Pillar, and FAST protocols to Web3-enabled decentralized finance \(DeFi\) and cryptocurrency trading.
+iob Prodefy is a unifying multi-financial protocols communication platform connecting FIX \(Financial Information eXchange\) protocol, Pillar, and other protocols to Web3-enabled decentralized finance \(DeFi\) and cryptocurrency trading.
 
 For the high-performance trading systems, Prodefy is akin to Bloomberg Markets of DeFi.
 
@@ -104,13 +104,17 @@ Moreover, DeFi has some pros and cons for the professional traders. While zero s
 
 ### Who else can also benefit from Prodefy?
 
-The cryptocurrency exchanges, both centralized and decentralized exchanges. Currently, they are only built for retail traders, crypto enthusiasts who are willing to experiment with the new financial revolution with limited and unreliable trading infrastructure.
+The cryptocurrency exchanges, both centralized and decentralized exchanges. 
+
+Currently, they are only built for retail traders, crypto enthusiasts who are willing to experiment with the new financial revolution with limited and unreliable trading infrastructure.
 
 Cryptocurrencies and DeFi will become a true force of change once the institutional establishments are on board. Through Prodefy, institutional investors are able to tap into the DeFi platforms. The exchanges can benefit from the new trading money that is maybe hundreds of times their current trading volume.
 
 ### What other major functionalities are being planned for Prodefy?
 
-Unified asset and investment management. A single place to manage your asset and investment both in traditional and decentralized markets, as well as your funds' banking needs.
+Unified asset and investment management. 
+
+A single place to manage your asset and investment both in traditional and decentralized markets, as well as your funds' banking needs.
 
 ### What are the major applications Prodefy can be used in the near future?
 
@@ -130,7 +134,9 @@ DeFi platforms are naturally suitable for iob.fi to create and to trade any asse
 
 #### Permissionless
 
-Trading without borders and gatekeepers. Markets are democratized for anyone to access and are governed by the transparency of smart contracts.
+Trading without borders and gatekeepers. 
+
+Markets are democratized for anyone to access and are governed by the transparency of smart contracts.
 
 #### Secure
 
@@ -216,7 +222,13 @@ During Phase 1 of the DAO deployment, only the core members are designated to ma
 
 ### What are the voting-power differences between IOB and FI? 
 
-IOB holders can vote on ALL matters on iob.fi DAO while FI holders can vote on most, but not all policies. For instance, FI cannot vote on IOB to FI conversion proposals. However, most FI holders are at the same time IOB holders during the first two phases of DAO's deloyment, we do not see a drastic conflict between the two camps.  
+IOB holders can vote on ALL matters on iob.fi DAO through wIOB while FI holders can vote on most, but not all policies. For instance, FI cannot vote on IOB to FI conversion proposals. However, most FI holders are at the same time IOB holders during the first two phases of DAO's deployment, we do not see a drastic conflict between the two camps.
+
+### Why do I need to wrap IOB tokens into wIOB?
+
+wIOB tokens are needed for voting on iob.fi DAO. 
+
+IOB token code was created in 2017 and is not upgradable. We have created a wrap feature on iob.fi DAO so IOB holders can wrap their tokens to participate in voting on the DAO. One IOB equals one wIOB and they can be unwrapped at any time without permission by the token owner.   
 
 ### What are the benefits of iob.fi DAO?
 
