@@ -14,7 +14,7 @@ Unable to find a Web3 solution for our "black box" trading system, we have decid
 
 ### Why iob.fi?
 
-iob.fi seeks consistent capital appreciation. With over 20 years managing various types of funds totaling billions of dollars, iob.fi founding members have develped a cryptocurrency trading system called ioBots. ioBots are rule-based algorithmic trading strategies, order, risk, and asset management tools.
+iob.fi seeks consistent capital appreciation. With over 20 years in managing various types of funds totaling billions of dollars, iob.fi founding members have developed a cryptocurrency trading system called ioBots. ioBots is a set of rule-based algorithmic trading strategies, order, risk, and asset management tools.
 
 In the past 12 months, ioBots has demonstrated above-average returns in real-time, real-money trading while being developed. The ioBots-generated trading signals have been tracked in real-time on [iob.fund](https://iob.fund). If the signals automatically invested with $10,000 each time, the model portfolio has made over 150% in the first 12-month-period. ioBots has added new trading pairs gradually. The 6 starting pairs have demonstrated returns ranging from 183.9% to 597.35% for the first 12 months.
 
