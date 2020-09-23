@@ -194,7 +194,7 @@ Eventually, the role of the 'central bank' will be given to the entire community
 
 They are yours to keep and are exchangeable to IOB tokens. 
 
-### What happens to the IOB tokens that were converted into FI?
+### What will happen to the IOB tokens that were converted into FI?
 
 The converted IOB tokens are considered as Redeemed and will be permanently burnt.
 
