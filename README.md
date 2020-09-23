@@ -182,7 +182,7 @@ IOB holders have the right to convert their IOB into FI. Each conversion event i
 
 Not likely. 
 
-First of all, only IOB holders can vote on matters concerning IOB to FI conversion. Secondly, the conversion mechanism is so designed that the IOB holders ARE the majority of the FI holders for a foreseeable future. 
+First of all, only the current IOB holders can vote on matters concerning IOB to FI conversion. Secondly, the conversion mechanism is so designed that the IOB holders ARE the majority of the FI holders for a foreseeable future. 
 
 In the beginning, iob.fi DAO core members act as a 'central bank' that controls and balances the FI 'money' supply. If we do things sensibly, we will not flood the market with an excess of FI token supply that will ruin the token economics and the price of FI in the open market. For a period after FI's creation, only IOB holders are FI token suppliers. 
 
