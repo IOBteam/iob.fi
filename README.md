@@ -66,13 +66,13 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 
 ### What's the difference between Defy and liquidity pools?
 
-Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes over -80% return in a short period of holding them\) as the cryptocurrencies regularly exhibit in the past. Defy actively trading in derivatives representing different asset classes, mitigating excessive drawdown risk.
+Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes drops over 80% from their peaks in a short period of time\) as the cryptocurrencies regularly exhibit in the past. Defy actively trading in derivatives representing different asset classes, mitigating excessive drawdown risk.
 
-Most liquidity pool hold just a few high-flying tokens at the time of their creation. They may experience some extraordinary short-term uptrend movement, but their short-term focused design may not yield true meaningful long-term growth potential.
+Most liquidity pools hold just a few high-flying tokens at the time of their creation. They may experience some extraordinary short-term upside moves, but their short-term-focused design may not yield true meaningful long-term growth potential.
 
 ### What do I get by investing in Defy Fund?
 
-The possibility of consistent capital appreciation for years to come. Defy Fund is not designed to chase the newest fad that may be associated with big risks.
+The possibility of consistent capital appreciation for years to come. Defy Fund is not designed to chase the newest fad that may be associated with excessive risks.
 
 To encourage our community-driven governance, Defy Fund investors and liquidity providers are rewarded with FI governance token staking rewards.
 
@@ -80,29 +80,29 @@ To encourage our community-driven governance, Defy Fund investors and liquidity 
 
 ### What is Prodefy?
 
-iob Prodefy is a unifying multi-financial protocols communication platform connecting FIX \(Financial Information eXchange\) protocol, Pillar and FAST protocols to Web3-enabled decentralized finance \(DeFi\) and cryptocurrency trading.
+iob Prodefy is a unifying multi-financial protocols communication platform connecting FIX \(Financial Information eXchange\) protocol, Pillar, and FAST protocols to Web3-enabled decentralized finance \(DeFi\) and cryptocurrency trading.
 
-For the high-performance trading systems, Prodefy is akin to Bloomberg \(tm\) of DeFi.
+For the high-performance trading systems, Prodefy is akin to Bloomberg Markets of DeFi.
 
 ### Who needs Prodefy?
 
 The institutional hedge fund trades and Wall Street firms.
 
-One of the obstacles that prevents the large hedge funds from the crypto investing and trading is that the crypto trading infrastructure is incompatible with their existing trading systems.
+One of the obstacles that have prevented the large hedge funds from the crypto investing and trading is that the crypto trading infrastructure is incompatible with their existing trading systems.
 
-### Why can't Wall Street firms build their own DeFi solutions?
+### Why cannot Wall Street firms build their own DeFi solutions?
 
-They certainly can. However, there are reasons, besides the current government regulatory and their internal compliance restrictions, why the institutional traders and investors are largely absent from the DeFi revolution.
+They certainly can. However, there are reasons, besides the current government regulations and their internal compliance restrictions, why the institutional traders and investors are largely absent from the DeFi revolution.
 
-The emergence of decentralized exchanges \(DEXes\) has fundamentally changes how trading takes place. Gone are the centralized order books, specialists and market makers who all have a natural advantage over small traders. Most Wall Street firms count their existence on those advantages.
+The emergence of decentralized exchanges \(DEXes\) has fundamentally changed how trading takes place. Gone are the centralized order books, specialists, and market makers who all have the inherited advantages over small traders. Most Wall Street firms count their existence on those advantages.
 
-Moreover, DeFi has some pros and cons for the professional traders, zero slippage is an attractive feature, but on-chain transactions renders some of the main benefits of HFT impossible.
+Moreover, DeFi has some pros and cons for the professional traders. While zero slippage is an attractive feature, but on-chain transactions renders some of the main benefits of HFT impossible.
 
 ### Who else can also benefit from Prodefy?
 
-The cryptocurrency exchanges, both centralized and decentralized exchanges. Currently, they are only built for retail traders who are crypto enthusiasts who are willing to experiment the new financial revolution with limited and unreliable trading infrastructure.
+The cryptocurrency exchanges, both centralized and decentralized exchanges. Currently, they are only built for retail traders who are crypto enthusiasts who are willing to experiment with the new financial revolution with limited and unreliable trading infrastructure.
 
-Cryptocurrencies and DeFi will become a true force of change once the institutional establishments are on board. Through Prodefy, institutional investors with professional-grade trading systems are able to tap into the DeFi platforms. The exchanges can benefit with new trading volume that may be hundreds of times their current trading volumes.
+Cryptocurrencies and DeFi will become a true force of change once the institutional establishments are on board. Through Prodefy, institutional investors with professional-grade trading systems are able to tap into the DeFi platforms. The exchanges can benefit from the new trading volume that maybe hundreds of times their current trading volumes.
 
 What other major functionalities are being planned for Prodefy?
 
@@ -110,11 +110,11 @@ Unified asset and investment management. A single place to manage your asset and
 
 ### What are the major applications Prodefy can be used in the near future?
 
-Prodefy can be used by institutional traders for creating new derivatives trading pairs of any assets, synthetic indices and offering new index trading and actively managed trading products to their clients.
+Prodefy can be used by institutional traders for creating new derivatives trading pairs of any assets, synthetic indices, and offering new index trading and actively managed trading products to their clients.
 
 ### What are the possible extensions for Prodefy?
 
-When our own and the institutional clients' needs have exceeded the functionalities provided by the prevailing DEXs, we will work with them to deploying a robust trading venue.
+When our own and the institutional clients' needs have exceeded the functionalities provided by the prevailing DEXs, we will work with them to deploying a more robust trading venue.
 
 ## DeFi
 
@@ -122,7 +122,7 @@ When our own and the institutional clients' needs have exceeded the functionalit
 
 #### Trading anything anywhere in the world
 
-DeFi platforms are naturally suitable for iob.fi to create and to trade any asset classes globally with a universal market access. Synthetic derivatives break the common barriers of borders and fiat currencies. For instance, now anyone anywhere in the world can trade the gold futures with a Web3 wallet.
+DeFi platforms are naturally suitable for iob.fi to create and to trade any asset classes globally with universal market access. Synthetic derivatives break the common barriers of borders and fiat currencies. For instance, now anyone anywhere in the world can trade the gold futures with a Web3 wallet.
 
 #### Permissionless
 
@@ -134,29 +134,29 @@ Your asset, your private key, your control.
 
 #### New market opportunities
 
-DeFi is the future of finance. iob.fi has deep understanding of both the traditional finance and the emerging decentralized finance. DeFi has only largely captured the imaginations and excitement of the retail investors and traders so far. There is a disconnection between between the old and new. DeFi innovations are led mostly by coders with little or no financial background, and that's the advantage they have, not being burdened by the old-fashion ways of thinking and predatory ways of doing business. However, the financial world is still being controlled by the traditional institutional players. We have witnessed that the two are belittling each other. We believe they will gradually adapt and penetrate each other's turfs. Being one of the first to build a bridge between the traditional and decentralized finance, iob.fi is in a similar position as the early days of the Bloomberg finance system.
+DeFi is the future of finance. iob.fi has a deep understanding of both traditional finance and emerging decentralized finance. DeFi has only largely captured the imaginations and excitement of the retail investors and traders so far. There is a disconnection between the old and new. DeFi innovations are led mostly by coders with little or no financial background, and that is actually an advantage they have -- not being burdened by the old-fashion ways of thinking and the predatory ways of doing business. However, the financial world is still being controlled by traditional institutional players. We have witnessed that the two are belittling each other. We believe they will gradually adapt and penetrate each other's turfs. Being one of the first to build a bridge between the traditional and decentralized finance, iob.fi is in a similar position as the early days of the Bloomberg Markets system.
 
-## The FI Token
+## FI Token
 
 ### What is FI?
 
 FI is the iob.fi DAO governance token. It has no preset initial par value. Today FI is used for voting on proposals of all business aspects of iob.fi. FI will be used as a native token for Prodefy technology platform in Phase 2. FI holders will be given control of the iob.fi ecosystem in Phase 3 of the iob.fi product launch.
 
-### Why does the iob.fi DAO need FI?
+### Why does iob.fi DAO need FI?
 
 FI aligns incentives in the iob.fi DAO for value creation and economic growth. By linking demand for services to FI, the iob.fi DAO is able to benefit from the success of the products and services it provides. FI holders can also have a direct say in the evolution of the network by participating in governance.
 
 ### What is the FI token structure?
 
-25% FI tokens are initially allocated to founding members, core contributors, advisors and partners, all subject to vesting periods.
+25% FI tokens are initially allocated to founding members, core contributors, advisors, and partners, all subject to vesting periods.
 
-5% were allocated for the Prodefy Ecosystem Fund. This fund will be deployed to attract and incentivize strategic partners that will help the Balancer ecosystem grow and thrive. FI holders will ultimately decide how this fund is used over the coming years.
+5% of tokens are allocated for the Prodefy Ecosystem Fund. This fund will be deployed to attract and incentivize strategic partners that will help the Balancer ecosystem grow and thrive. FI holders will ultimately decide how this fund is used over the coming years.
 
-The remaining 21.5% tokens are intended to be mostly distributed to iob.fi fund investors in the coming years.
+The remaining 21.5% of tokens are intended to be mostly distributed to iob.fi fund investors in the coming years.
 
 ### Do I get any additional benefits for holding FI over the long term?
 
-By holding FI you can benefit from any potential increase in the value of the Aragon Network and its related services.
+By holding FI you can benefit from any potential increase in the value of the iob.fi and its related services.
 
 ## The IOB Token
 
