@@ -228,7 +228,7 @@ IOB holders can vote on ALL matters on iob.fi DAO through wIOB while FI holders 
 
 wIOB tokens are needed for voting on iob.fi DAO. 
 
-IOB token code was created in 2017 and is not upgradable. We have created a wrap feature on iob.fi DAO so IOB holders can wrap their tokens to participate in voting on the DAO. One IOB equals one wIOB and they can be unwrapped at any time without permission by the token owner.   
+IOB token code was created in 2017 and is not upgradable. We have been building a wrap feature on iob.fi DAO so IOB holders can wrap their tokens to participate in voting on the DAO. One IOB equals one wIOB and they can be unwrapped at any time, without a permission from anyone, by the token owner.   
 
 ### What are the benefits of iob.fi DAO?
 
