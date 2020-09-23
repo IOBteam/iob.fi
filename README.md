@@ -60,9 +60,13 @@ Started on September 3, 2019, Quasar Fund was the real-time trading "lab rat" us
 
 The Trading Signals and Quasar Fund have totally different objectives. Each "trading position" in the model portfolio is always [fully invested with $10,000](https://iob.fund/signals/portfolio), regardless of the risk level of the signal. This results in potentially big profits with larger per-position losses. The Model Portfolio represents an "Aggressive Growth" fund trading objective. On the other hand, the "Total Return" trading portfolio may have a higher risk tolerance and a higher expected return.
 
+No longer relying on centralized exchanges for order execution, Quasar Fund will be migrated to one of our DeFi funds in the near future.
+
 ### What is Defy Fund?
 
 iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. Defy will invest in derivatives of non-correlated asset classes including cryptocurrencies, commodities, and stock futures.
+
+The objective of the Defy Fund is low-risk, stable growth with targeted annual return in the low double digits.  
 
 ### What's the difference between Defy and liquidity pools?
 
