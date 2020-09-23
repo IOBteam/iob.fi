@@ -1,5 +1,5 @@
 #### iob.fi
-# DAO
+## DAO
 ## Coordinating a global set of participants around a common mission
 
 # WHAT IS iob.fi DAO
