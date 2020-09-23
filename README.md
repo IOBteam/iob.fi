@@ -90,7 +90,7 @@ The institutional hedge fund trades and Wall Street firms.
 
 One of the obstacles that have prevented the large hedge funds from the crypto investing and trading is that the crypto trading infrastructure is incompatible with their existing trading systems.
 
-### Why cannot Wall Street firms build their own DeFi solutions?
+### Why can Wall Street firms not build their own DeFi solutions?
 
 They certainly can. However, there are reasons, besides the current government regulations and their internal compliance restrictions, why the institutional traders and investors are largely absent from the DeFi revolution.
 
