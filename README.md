@@ -104,11 +104,11 @@ Moreover, DeFi has some pros and cons for the professional traders. While zero s
 
 ### Who else can also benefit from Prodefy?
 
-The cryptocurrency exchanges, both centralized and decentralized exchanges. Currently, they are only built for retail traders who are crypto enthusiasts who are willing to experiment with the new financial revolution with limited and unreliable trading infrastructure.
+The cryptocurrency exchanges, both centralized and decentralized exchanges. Currently, they are only built for retail traders, crypto enthusiasts who are willing to experiment with the new financial revolution with limited and unreliable trading infrastructure.
 
-Cryptocurrencies and DeFi will become a true force of change once the institutional establishments are on board. Through Prodefy, institutional investors with professional-grade trading systems are able to tap into the DeFi platforms. The exchanges can benefit from the new trading volume that maybe hundreds of times their current trading volumes.
+Cryptocurrencies and DeFi will become a true force of change once the institutional establishments are on board. Through Prodefy, institutional investors are able to tap into the DeFi platforms. The exchanges can benefit from the new trading money that is maybe hundreds of times their current trading volume.
 
-What other major functionalities are being planned for Prodefy?
+### What other major functionalities are being planned for Prodefy?
 
 Unified asset and investment management. A single place to manage your asset and investment both in traditional and decentralized markets, as well as your funds' banking needs.
 
@@ -206,7 +206,7 @@ iob.fi DAO enables the community to:
 
 #### Attract and incentivize contributors
 
-The DAO incentivizes contributors by giving them a say in the future of the organization.
+The DAO incentivizes contributors by giving them a say in the future of the organization. Through the iob.fi DAO, our research and development effort will reach a global level. Anyone can make a contribution from any corner of the world, not only the "employees."
 
 #### Pool funds
 
