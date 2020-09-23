@@ -16,7 +16,7 @@ Unable to find a Web3 solution for our "black box" trading system, we have decid
 
 iob.fi seeks consistent capital appreciation. With over 20 years managing various funds totaling billions of dollars, iob.fi founding members have develped a cryptocurrency trading system called ioBots. ioBots are rule-based algorithmic trading strategies, order, risk, and asset management tools.
 
-In the past 12 months, ioBots have demonstrated above average returns in real-time, real-money trading while being developed. ioBots-generated trading signals have been tracked in real-time. If the signals automatically invest in $10,000 for each trading signal, the total portfolio has made over 150% in the overall 12-month-period return. ioBots Signals add new trading pairs gradually. The 6 starting pairs achieving returns ranging from 183.9% to 597.35% for the first 12 months.
+In the past 12 months, ioBots have demonstrated above-average returns in real-time, real-money trading while being developed. ioBots-generated trading signals have been tracked in real-time. If the signals automatically invest in $10,000 for each trading signal, the total portfolio has made over 150% in the overall 12-month-period return. ioBots Signals add new trading pairs gradually. The 6 starting pairs achieving returns ranging from 183.9% to 597.35% for the first 12 months.
 
 ## Fund products for retail investors
 
