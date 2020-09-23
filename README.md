@@ -132,7 +132,7 @@ Trading without borders and gatekeepers. Markets are democratized for anyone to 
 
 Your asset, your private key, your control.
 
-#### New market opportunities
+#### The new market opportunities
 
 DeFi is the future of finance. iob.fi has a deep understanding of both traditional finance and emerging decentralized finance. DeFi has only largely captured the imaginations and excitement of the retail investors and traders so far. There is a disconnection between the old and new. DeFi innovations are led mostly by coders with little or no financial background, and that is actually an advantage they have -- not being burdened by the old-fashion ways of thinking and the predatory ways of doing business. However, the financial world is still being controlled by traditional institutional players. We have witnessed that the two are belittling each other. We believe they will gradually adapt and penetrate each other's turfs. Being one of the first to build a bridge between the traditional and decentralized finance, iob.fi is in a similar position as the early days of the Bloomberg Markets system.
 
@@ -156,9 +156,9 @@ The remaining 21.5% of tokens are intended to be mostly distributed to iob.fi fu
 
 ### Do I get any additional benefits for holding FI over the long term?
 
-By holding FI you can benefit from any potential increase in the value of the iob.fi and its related services.
+By holding FI you can benefit from any potential increase in the value of the iob.fi and its related products and services.
 
-## The IOB Token
+## IOB Token
 
 ### What is IOB?
 
@@ -166,15 +166,15 @@ IOB was created in October 2017. The IOB LLC and iob.fi business are entirely fu
 
 ### What is the exchange rate between IOB and FI tokens?
 
-IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially, and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. After certain numbers of IOB tokens are burnt, the entire IOB token control will be given to the IOB holders.
+IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. After certain numbers of IOB tokens are burnt, the entire IOB token control will be given to the IOB holders.
 
 ### What happens to the IOB tokens that were converted into FI?
 
 The converted IOB tokens are considered as Redeemed and will be permanently burnt.
 
-### How can IOB holders vote on iob.fi DAO?
+### Can IOB holders vote on iob.fi DAO?
 
-IOB holders can wrap their IOB temporarily into wIOB on iob.fi. wIOB can then participate in voting on all proposals in the iob.fi DAO.
+Yes. IOB holders can wrap their IOB temporarily into wIOB on iob.fi. The wIOB tokens can then participate in voting on all proposals in the iob.fi DAO.
 
 ## DAO
 
@@ -192,13 +192,13 @@ Decentralized organizations can solve some of the traditional companies' worst p
 
 ### What are the benefits of iob.fi DAO?
 
-iob.fi DAO is an inclusive, transparent and global model for human coordination. It brings superpowers to the online community that share our longer vision since 2017.
+iob.fi DAO is an inclusive, transparent, and global model for human coordination. It brings superpowers to the online community that shares our longer vision since 2017.
 
 iob.fi DAO enables the community to:
 
 #### Attract and incentivize contributors
 
-The DAO incentivize contributors by giving them a say in the future of the organization.
+The DAO incentivizes contributors by giving them a say in the future of the organization.
 
 #### Pool funds
 
@@ -206,7 +206,7 @@ iob.fi DAO allows people all around the world to pool funds.
 
 #### Govern those funds together
 
-It allow people to collaboratively channel common funds towards common missions.
+It allows people to collaboratively channel common funds towards common missions.
 
 ### What is my power?
 
@@ -214,7 +214,7 @@ Over time, we will be scheduling votes to decide on a range of issues, including
 
 #### IOB token conversions
 
-The community will decide on the IOB to FI conversion rate and batch amount available for each voluntary swap.
+The community will decide on the IOB to FI conversion rate and the batch amount available for each voluntary swap.
 
 #### Management fees and incentives
 
@@ -222,7 +222,7 @@ For each new fund, the community decides on its management fee and incentive str
 
 #### Dividend payouts
 
-Authorizing dividend payout ratio, timing and payment methods.
+Authorizing dividend payout ratio, timing, and payment methods.
 
 #### Business expansions
 
