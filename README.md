@@ -40,9 +40,9 @@ For any trading strategy to work well, you first must identify what the Market T
 
 iob.fi identifies Very Bullish, Bullish, Choppy, Bearish, and Very Bearish market types every day for each market we are trading through a proprietary algorithm.
 
-### Why is market type awareness important?
+### Why is market-type awareness important?
 
-Trading methods and strategies are not one size fits all. A certain strategy may work well in the bullish market, but lags in a bearish market. It is essential to have the right strategies for the corresponding market type.
+Trading methods and strategies are not one size fits all. A certain strategy may work well in the bullish market but loses badly in a bearish market. It is essential to have the right strategies for the corresponding market type.
 
 ### Again, what is the best trading strategy?
 
@@ -68,13 +68,13 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 
 Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes drops over 80% from their peaks in a short period of time\) as the cryptocurrencies regularly exhibit in the past. Defy actively trading in derivatives representing different asset classes, mitigating excessive drawdown risk.
 
-Most liquidity pools hold just a few high-flying tokens at the time of their creation. They may experience some extraordinary short-term upside moves, but their short-term-focused design may not yield true meaningful long-term growth potential.
+Most liquidity pools hold just a few high-flying tokens at the time of their creation. They may experience some extraordinary short-term upside moves, but their short-term-focused design may not yield true meaningful long-term profit potential.
 
 ### What do I get by investing in Defy Fund?
 
 The possibility of consistent capital appreciation for years to come. Defy Fund is not designed to chase the newest fad that may be associated with excessive risks.
 
-To encourage our community-driven governance, Defy Fund investors and liquidity providers are rewarded with FI governance token staking rewards.
+To encourage our community-driven governance, Defy Fund investors and liquidity providers are granted FI governance token staking rewards.
 
 ## Solutions for institutional investors
 
