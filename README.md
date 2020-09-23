@@ -176,6 +176,10 @@ The converted IOB tokens are considered as Redeemed and will be permanently burn
 
 Yes. IOB holders can wrap their IOB temporarily into wIOB on iob.fi. The wIOB tokens can then participate in voting on all proposals in the iob.fi DAO.
 
+### Who holds IOB? 
+
+Over [1,100 unique addresses](https://etherscan.io/token/0x6130ff302f24267380753e52ece48b852be3dd38#balances) hold IOB for a total of 11,603,244 outstanding tokens. 
+
 ## DAO
 
 ### What is iob.fi DAO management team?
