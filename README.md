@@ -10,23 +10,23 @@ iob.fi is a decentralized autonomous organization \(DAO\).
 
 iob.fi manages multi-asset-class hedge funds aiming to achieve superior returns with controlled max drawdowns.
 
-Unable to find a Web3 solution for our "black box" trading system, we have decided to develop one for our own use and plan to open it for Wall Street firms.
+Unable to find a Web3 solution for our "black box" trading system, we have decided to develop one, the Prodefy platform, for our own use and plan to open it for Wall Street firms.
 
 ### Why iob.fi?
 
-iob.fi seeks consistent capital appreciation. With over 20 years managing various funds totaling billions of dollars, iob.fi founding members have develped a cryptocurrency trading system called ioBots. ioBots are rule-based algorithmic trading strategies, order, risk, and asset management tools.
+iob.fi seeks consistent capital appreciation. With over 20 years managing various types of funds totaling billions of dollars, iob.fi founding members have develped a cryptocurrency trading system called ioBots. ioBots are rule-based algorithmic trading strategies, order, risk, and asset management tools.
 
-In the past 12 months, ioBots have demonstrated above-average returns in real-time, real-money trading while being developed. ioBots-generated trading signals have been tracked in real-time. If the signals automatically invest in $10,000 for each trading signal, the total portfolio has made over 150% in the overall 12-month-period return. ioBots Signals add new trading pairs gradually. The 6 starting pairs achieving returns ranging from 183.9% to 597.35% for the first 12 months.
+In the past 12 months, ioBots has demonstrated above-average returns in real-time, real-money trading while being developed. The ioBots-generated trading signals have been tracked in real-time on [iob.fund](https://iob.fund). If the signals automatically invested with $10,000 each time, the model portfolio has made over 150% in the first 12-month-period. ioBots has added new trading pairs gradually. The 6 starting pairs have demonstrated returns ranging from 183.9% to 597.35% for the first 12 months.
 
 ## Fund products for retail investors
 
-### What's the most important thing in investment and trading success?
+### What is the most important thing in investment and trading success?
 
-Consistency is the \#1 secret to be a winning trader, but most traders fail to achieve it. Long-term views always win in trading. Most failed traders inadvertently treating trading as an adventure, rather than a money-making business, therefore fail to achieve the consistency.
+Consistency is the \#1 secret to be a winning trader, but most traders fail to achieve it. Long-term views always win in trading. Most failed traders inadvertently treating trading as an adventure, rather than a money-making business, therefore fail to achieve consistency.
 
-### What's the best trading strategy?
+### What is the best trading strategy?
 
-You start with a clear trading objective first. All methods of wealth growth start with a clear objective and an action plan. Simply stating "making lots of money" is neither. Same as running a successful business, trading strategies and setups are only meaningful with a clearly defined objective.
+A successful trader would start with a clear trading objective first. All methods of wealth growth start with a clear objective and a detailed action plan. Simply wanting to "make lots of money" is neither. Same as running a successful business, trading strategies and setups are only meaningful with a clearly defined objective.
 
 ### Why am I not achieving trading consistency?
 
@@ -34,23 +34,23 @@ The key to consistency is to keep what you've earned, and the key to that is to 
 
 ### **How to choose the best strategy?**
 
-For any trading strategy to work well, you first must identify what the Market Type you are in currently.
+For any trading strategy to work well, you first must identify what the Market Type you are currently in.
 
 ### Why are the iob Market Types?
 
-iob.fi identifies Very Bullish, Bullish, Choppy, Bearish and Very Bearish market types every day for each market we are trading through a proprietary algorithm.
+iob.fi identifies Very Bullish, Bullish, Choppy, Bearish, and Very Bearish market types every day for each market we are trading through a proprietary algorithm.
 
 ### Why is market type awareness important?
 
-Trading methods and strategies are not one size fits all. A certain strategy may work well in the bullish market, but lags in a bearish market. It is essential to have the right strategies for the right market type.
+Trading methods and strategies are not one size fits all. A certain strategy may work well in the bullish market, but lags in a bearish market. It is essential to have the right strategies for the corresponding market type.
 
-### Again, what's the best trading strategy?
+### Again, what is the best trading strategy?
 
-This is no one single "best strategy." Very bullish, bullish, choppy, bearish and very bearish market types calls for different trading strategies.
+This is no one single "best strategy." Very bullish, bullish, choppy, bearish, and very bearish market types call for different trading strategies.
 
 ### What are ioBots trading signals?
 
-Trading Signals are buying and selling trading signals generated by ioBots developed by IOB LLC. Currently, ioBots are covering 20 markets, including BTC, ETH, ADA, XTZ, Gold, MSFT, and TSLA, among others. These are the same trading signals Quasar funds uses for all trading decisions. Started with 6 trading pairs in July 2019, 14 more markets were subsequently added. The best historical total return is BCH with 601.57% profit. The worst is XTZ with a loss of 11.46%. You can find detailed Signal performance history  [here](https://iob.fund/signal/history/BTCUSD).
+Trading Signals are buying and selling trading signals generated by ioBots developed by IOB LLC. Currently, ioBots is covering 20 markets, including BTC, ETH, ADA, XTZ, Gold, MSFT, and TSLA, among others. These are the same trading signals Quasar fund uses for all trading decisions. The Signals started for 6 trading pairs in July 2019. 14 more markets were subsequently added. The best historical total return is BCH with a 601.57% profit. The worst is XTZ with a loss of 11.46%. You can find detailed Signal performance history [here](https://iob.fund/signal/history/BTCUSD).
 
 ### What is Quasar Fund?
 
@@ -58,11 +58,11 @@ Started on September 3, 2019, Quasar Fund was the real-time trading development 
 
 ### Why are the results of the signals better than that of Quasar Fund?
 
-The Trading Signals and Quasar Fund have totally different objectives. Each "trading position" in the model portfolio is always [fully invested with $10,000](https://iob.fund/signals/portfolio), regardless the risk level of the signal. This results in a potentially big profits with larger per-position losses. The Model Portfolio represents an "Aggressive Growth" fund trading objective. A "Total Return" trading portfolio may have higher risk tolerance and a higher expected return.
+The Trading Signals and Quasar Fund have totally different objectives. Each "trading position" in the model portfolio is always [fully invested with $10,000](https://iob.fund/signals/portfolio), regardless of the risk level of the signal. This results in potentially big profits with larger per-position losses. The Model Portfolio represents an "Aggressive Growth" fund trading objective. On the other hand, the "Total Return" trading portfolio may have a higher risk tolerance and a higher expected return.
 
 ### What is Defy Fund?
 
-iob Defy Fund is the first tokenized, actively managed fund. Defy will invest in derivatives of non-correlated asset classes including cryptocurrencies, commodities and stock futures.
+iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. Defy will invest in derivatives of non-correlated asset classes including cryptocurrencies, commodities, and stock futures.
 
 ### What's the difference between Defy and liquidity pools?
 
