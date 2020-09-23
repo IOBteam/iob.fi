@@ -118,7 +118,7 @@ Prodefy can be used by institutional traders for creating new derivatives tradin
 
 ### What are the possible extensions for Prodefy?
 
-When our own and the institutional clients' needs have exceeded the functionalities provided by the prevailing DEXs, we will work with them to deploying a more robust trading venue.
+When our own and institutional clients' needs have exceeded the functionalities provided by the prevailing DEXs, we will work with them to deploying a more robust trading venue.
 
 ## DeFi
 
@@ -138,7 +138,7 @@ Your asset, your private key, your control.
 
 #### The new market opportunities
 
-DeFi is the future of finance. iob.fi has a deep understanding of both traditional finance and emerging decentralized finance. DeFi has only largely captured the imaginations and excitement of the retail investors and traders so far. There is a disconnection between the old and new. DeFi innovations are led mostly by coders with little or no financial background, and that is actually an advantage they have -- not being burdened by the old-fashion ways of thinking and the predatory ways of doing business. However, the financial world is still being controlled by traditional institutional players. We have witnessed that the two are belittling each other. We believe they will gradually adapt and penetrate each other's turfs. Being one of the first to build a bridge between the traditional and decentralized finance, iob.fi is in a similar position as the early days of the Bloomberg Markets system.
+DeFi is the future of finance. iob.fi has a deep understanding of both traditional finance and emerging decentralized finance. DeFi has only largely captured the imaginations and excitement of the retail investors and traders so far. There is a disconnection between the old and new. DeFi innovations are led mostly by coders with little or no financial background, and that is actually an advantage they have -- not being burdened by the old-fashion ways of thinking and the predatory ways of doing business. However, the financial world is still being controlled by traditional institutional players. We have witnessed that the two sides are belittling each other every day. We believe they will gradually adapt and penetrate each other's turfs. Being one of the first to build a bridge between the traditional and decentralized finance, iob.fi is in a similar position that is similar to the early days of the Bloomberg Markets system.
 
 ## FI Token
 
@@ -152,7 +152,7 @@ FI aligns incentives in the iob.fi DAO for value creation and economic growth. B
 
 ### What is the FI token structure?
 
-25% FI tokens are initially allocated to founding members, core contributors, advisors, and partners, all subject to vesting periods.
+25% of FI tokens are initially allocated to founding members, core contributors, advisors, and partners, all subject to vesting periods.
 
 5% of tokens are allocated for the Prodefy Ecosystem Fund. This fund will be deployed to attract and incentivize strategic partners that will help the Balancer ecosystem grow and thrive. FI holders will ultimately decide how this fund is used over the coming years.
 
@@ -170,7 +170,17 @@ IOB was created in October 2017. The IOB LLC and iob.fi business are entirely fu
 
 ### What is the exchange rate between IOB and FI tokens?
 
-IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. After certain numbers of IOB tokens are burnt, the entire IOB token control will be given to the IOB holders.
+IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. After a certain amount of IOB tokens are burnt, the entire IOB token control will be given to the IOB holders.
+
+### Since IOB holders only control 48.5% of FI tokens, will the FI holders out-vote IOB holders on important matters, including IOB to FI conversions? 
+
+Not likely. 
+
+First of all, only IOB holders can vote on matters concerning IOB to FI conversion. Secondly, the conversion mechanism is so designed that the IOB holders ARE the majority of the FI holders for a foreseeable future. 
+
+In the beginning, iob.fi DAO core members act as a 'central bank' that controls and balances the FI 'money' supply. If we do things sensibly, we will not flood the market with an excess of FI token supply that will ruin the token economics and the price of FI in the open market. For a period after FI's creation, only IOB holders are FI token suppliers. 
+
+Eventually, the role of the 'central bank' will be given to the entire community, no longer in the hands of the core members.  
 
 ### What happens to the IOB tokens that were converted into FI?
 
@@ -197,6 +207,12 @@ The DAO structure gives internet communities unprecedented power to organize aro
 ### How is iob.fi DAO organized by its contributing members?
 
 Decentralized organizations can solve some of the traditional companies' worst problems. All of us are not constrained by geography. Members work remotely by a shared vision.
+
+### If the core members control all the important mattes and even act as a 'central bank,' how decentralized is iob.fi DAO?
+
+We intend to give all the control to the community. However, we can only do it in a gradual, guided, and controlled way towards the state of total democracy. 
+
+During Phase 1 of the DAO deployment, only the core members are designated to make policy proposals. The entire community of FI and IOB holders is still entitled to vote for each proposal. A proposal is enacted only it receives the required vote counts. Phase 2 will give any token holder the right to make proposals on most business policies for the community to vote. In Phase 3, the community is given total control of iob.fi DAO and anyone can make a proposal on any policy matter. 
 
 ### What are the benefits of iob.fi DAO?
 
