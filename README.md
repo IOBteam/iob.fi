@@ -176,7 +176,9 @@ IOB was created in October 2017. The IOB LLC and iob.fi business are entirely fu
 
 ### What is the exchange rate between IOB and FI tokens?
 
-IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. After a certain amount of IOB tokens are burnt, the entire IOB token control will be given to the IOB holders.
+IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. 
+
+Important policy proposals such as token conversion price, available batch amount are made by the designated core member during Phase 1 and 2 of iob.fi DAO deployment. After a certain amount of IOB tokens are burnt, in Phase 3 the entire IOB token control will be given to the IOB holders.
 
 ### Since IOB holders only control 48.5% of FI tokens, will the FI holders out-vote IOB holders on important matters, including IOB to FI conversions? 
 
