@@ -10,7 +10,7 @@ iob.fi is a decentralized autonomous organization \(DAO\).
 
 iob.fi manages multi-asset-class hedge funds aiming to achieve superior returns with controlled max drawdowns.
 
-Unable to find a Web3 solution for our "black box" trading system, we have decided to develop one, the Prodefy platform, for our own use and plan to open it for Wall Street firms.
+Unable to find a Web3 solution in order to interact with the various DeFi platforms by our "black box" trading system, we have decided to develop one, the Prodefy platform, for our quantitative trading platform. To lead the effort of decentralized finance adoption by institutional traders, we will open it up for Wall Street firms as an open-source project.
 
 ### Why iob.fi?
 
