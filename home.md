@@ -1,4 +1,4 @@
-# Main Street. Wall Street. DeFi.
+# Beyond. Yield. Farming.
 
 ## Investing in cryptos, stocks, commodities and indices in one place
 
