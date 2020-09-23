@@ -22,31 +22,31 @@ In the past 12 months, ioBots has demonstrated above-average returns in real-tim
 
 ### What is the most important thing in investment and trading success?
 
-Consistency is the \#1 secret to be a winning trader, but most traders fail to achieve it. Long-term views always win in trading. Most failed traders inadvertently treating trading as an adventure, rather than a money-making business, therefore fail to achieve consistency.
+Consistency is the \#1 secret to be a winning trader, but most traders fail to achieve it. Long-term views always win in trading. Most failed traders inadvertently treating trading as an adventure, rather than a profit-making business, therefore fail to achieve consistency.
 
 ### What is the best trading strategy?
 
-A successful trader would start with a clear trading objective first. All methods of wealth growth start with a clear objective and a detailed action plan. Simply wanting to "make lots of money" is neither. Same as running a successful business, trading strategies and setups are only meaningful with a clearly defined objective.
+A successful trader would start with a clear trading objective first. All methods of wealth growth start with a clear objective and a detailed action plan. Simply wanting to "make lots of money" is neither. Same as running a successful business, trading strategies and setups are only meaningful after a clearly defined objective is formulated.
 
 ### Why am I not achieving trading consistency?
 
-The key to consistency is to keep what you've earned, and the key to that is to clearly define your Expected Max Drawdown BEFORE entering any trade.
+The key to consistency is to keep what you have earned, and the key to that is to clearly define your Expected Max Drawdown _BEFORE_ entering any trade.
 
 ### **How to choose the best strategy?**
 
-For any trading strategy to work well, you first must identify what the Market Type you are currently in.
+For any trading strategy to work well, you first must identify what the Market Type is at the moment.
 
 ### Why are the iob Market Types?
 
-iob.fi identifies Very Bullish, Bullish, Choppy, Bearish, and Very Bearish market types every day for each market we are trading through a proprietary algorithm.
+iob.fi identifies which of the 5 Market Types: Very Bullish, Bullish, Choppy, Bearish, or Very Bearish is underway every day for each market we are trading through a proprietary algorithm.
 
 ### Why is market-type awareness important?
 
-Trading methods and strategies are not one size fits all. A certain strategy may work well in the bullish market but loses badly in a bearish market. It is essential to have the right strategies for the corresponding market type.
+Trading methods and strategies are not one-size-fits-all. A certain strategy may work well in the bullish market but loses badly in a bearish market. It is essential to have the right strategies for the corresponding market type.
 
 ### Again, what is the best trading strategy?
 
-This is no one single "best strategy." Very bullish, bullish, choppy, bearish, and very bearish market types call for different trading strategies.
+This is no one single "best strategy." Each Very bullish, bullish, choppy, bearish, or very bearish market type calls for a different trading strategy for that market on that trading day.
 
 ### What are ioBots trading signals?
 
