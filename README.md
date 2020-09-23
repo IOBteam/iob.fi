@@ -150,7 +150,7 @@ DeFi is the future of finance. iob.fi has a deep understanding of both tradition
 
 ### What is FI?
 
-FI is the iob.fi DAO governance token. It has no preset initial par value. Today FI is used for voting on proposals of all business aspects of iob.fi. FI will be used as a native token for Prodefy technology platform in Phase 2. FI holders will be given control of the iob.fi ecosystem in Phase 3 of the iob.fi product launch.
+FI is the iob.fi DAO governance token. It has no preset initial par value. Today FI is used for voting on proposals of all business aspects of iob.fi. FI will be used as a native token for the Prodefy technology platform in Phase 2. FI holders will be given control of the iob.fi ecosystem in Phase 3 of the iob.fi product launch.
 
 ### Why does iob.fi DAO need FI?
 
@@ -176,7 +176,7 @@ IOB was created in October 2017. The IOB LLC and iob.fi business are entirely fu
 
 ### What is the exchange rate between IOB and FI tokens?
 
-IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting approval of the IOB holders on the iob.fi DAO. 
+IOB holders have the right to convert their IOB into FI. Each conversion event is unique. Conversions are proposed by iob.fi core members initially and are determined by the majority voting power approval of the IOB holders on the iob.fi DAO. 
 
 Important policy proposals such as token conversion price, available batch amount are made by the designated core member during Phase 1 and 2 of iob.fi DAO deployment. After a certain amount of IOB tokens are burnt, in Phase 3 the entire IOB token control will be given to the IOB holders.
 
@@ -206,7 +206,7 @@ Over [1,100 unique addresses](https://etherscan.io/token/0x6130ff302f24267380753
 
 ### What is iob.fi DAO management team?
 
-There is no central leadership, decisions are made in a bottom-up way. It can have its own rules, such as how to manage its own funds.
+There is no central leadership, decisions are made in a bottom-up way. It has its own rules, such as how to manage funds that belong to iob.fi.
 
 ### Where is iob.fi DAO registered?
 
@@ -230,7 +230,7 @@ IOB holders can vote on ALL matters on iob.fi DAO through wIOB while FI holders 
 
 wIOB tokens are needed for voting on iob.fi DAO. 
 
-IOB token code was created in 2017 and is not upgradable. We have been building a wrap feature on iob.fi DAO so IOB holders can wrap their tokens to participate in voting on the DAO. One IOB equals one wIOB and they can be unwrapped at any time, without a permission from anyone, by the token owner.   
+IOB token code was created in 2017 and is not upgradable. We have been building a wrap feature on iob.fi DAO so IOB holders can wrap their tokens to participate in voting on the DAO. One IOB equals one wIOB and they can be unwrapped at any time, without permission from anyone, by the token owner.   
 
 ### What are the benefits of iob.fi DAO?
 
