@@ -218,7 +218,7 @@ Decentralized organizations can solve some of the traditional companies' worst p
 
 We intend to give all the control to the community. However, we can only do it in a gradual, guided, and controlled way towards the state of total democracy. 
 
-During Phase 1 of the DAO deployment, only the core members are designated to make policy proposals. The entire community of FI and IOB holders is still entitled to vote for each proposal. A proposal is enacted only after it receives the required vote counts. Phase 2 will give any token holder the right to make proposals on most business policies for the community to vote. In Phase 3, the community is given the total control of iob.fi DAO and anyone can make a proposal on any policy matters. 
+During Phase 1 of the DAO deployment, only some of the core members are designated to make policy proposals. The entire community of FI and IOB holders is still entitled to vote for each proposal. A proposal is enacted only after it receives the required vote counts. Phase 2 will give any token holder the right to make proposals on most business policies for the community to vote. In Phase 3, the community is given the total control of iob.fi DAO and anyone can make a proposal on any policy matters. 
 
 ### What are the voting-power differences between IOB and FI? 
 
