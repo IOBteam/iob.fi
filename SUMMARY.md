@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [What is iob.fi](README.md)
 
 ## getting started
 
