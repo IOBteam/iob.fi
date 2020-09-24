@@ -4,5 +4,5 @@
 
 ## getting started
 
-* [FAQ](getting-started/untitled.md)
+* [FAQ](getting-started/faq.md)
 
