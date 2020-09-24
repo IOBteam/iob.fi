@@ -78,7 +78,7 @@ The use of a DAO structure helps fundamentally change the decades-old fund struc
 
 ### What's the difference between Defy and liquidity pools?
 
-Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes drops over 80% from their peaks in a short period of time\) as the cryptocurrencies regularly exhibit in the past. Defy actively trading in derivatives representing different asset classes, mitigating excessive drawdown risk.
+Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes all coins drop over 80% from their peaks in a short period of time\) as the cryptocurrencies regularly exhibit in the past. Defy will actively trade in derivatives representing different asset classes, mitigating excessive drawdown risk.
 
 Most liquidity pools hold just a few high-flying tokens at the time of their creation. They may experience some extraordinary short-term upside moves, but their short-term-focused design may not yield true meaningful long-term profit potential.
 
