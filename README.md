@@ -1,7 +1,8 @@
 ---
 description: >-
-  *draft version* More documentation, instructions, and dev tools to the DAOs
-  and Funds will be added continuously.
+  More docs are being prepared and will be added continuously. Information
+  contained here may be incomplete, inaccurate, or out of date. We encourage
+  community members to help edit on GitHub.
 ---
 
 # What is iob.fi
