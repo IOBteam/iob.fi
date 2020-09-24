@@ -68,6 +68,12 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 
 The objective of the Defy Fund is low-risk, stable growth with targeted annual return in the low double digits.  
 
+### What is DEFY token?
+
+The DEFY token on the Defy DAO provides an open, auditable record for fund inflows and outflows, and is automatically connected to various DEX liquidity pools through a Web3 dApp.
+
+The use of a DAO structure helps fundamentally change the decades-old fund structure, from fundraising to accounting, reporting, and auditing. No traditional third-party custodian and transfer agent required.
+
 ### What's the difference between Defy and liquidity pools?
 
 Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes drops over 80% from their peaks in a short period of time\) as the cryptocurrencies regularly exhibit in the past. Defy actively trading in derivatives representing different asset classes, mitigating excessive drawdown risk.
