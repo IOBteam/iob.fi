@@ -6,13 +6,7 @@
 
 ## defy dao
 
-* [Untitled](defy-dao/untitled.md)
-
 ## defy fund pools
 
-* [Untitled](defy-fund-pools/untitled.md)
-
 ## prodefy
-
-* [Untitled](prodefy/untitled.md)
 
