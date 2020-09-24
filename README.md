@@ -168,6 +168,8 @@ FI aligns incentives in the iob.fi DAO for value creation and economic growth. B
 
 ### What is the FI token structure?
 
+48.5% of the initial FI token supply is reserved for IOB holders. IOB holders have funded all of the operational expenses and investments made by IOB LLC.  
+
 25% of FI tokens are initially allocated to founding members, core contributors, advisors, and partners, all subject to vesting periods.
 
 5% of tokens are allocated for the Prodefy Ecosystem Fund. This fund will be deployed to attract and incentivize strategic partners that will help the Balancer ecosystem grow and thrive. FI holders will ultimately decide how this fund is used over the coming years.
