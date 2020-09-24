@@ -1,12 +1,8 @@
 # Table of contents
 
-* [FAQ](README.md)
+* [Home](README.md)
 
-## iob.fi DAO <a id="iob-fi-dao"></a>
+## getting started
 
-## defy dao
-
-## defy fund pools
-
-## prodefy
+* [FAQ](getting-started/untitled.md)
 
