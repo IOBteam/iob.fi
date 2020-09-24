@@ -38,7 +38,7 @@ For any trading strategy to work well, you first must identify what the Market T
 
 ### Why are the iob Market Types?
 
-iob.fi identifies which of the 5 Market Types: Very Bullish, Bullish, Choppy, Bearish, or Very Bearish is underway every day for each market we are trading through a proprietary algorithm.
+iob.fi identifies which of the 5 Market Types -- Very Bullish, Bullish, Choppy, Bearish, or Very Bearish -- is underway every day for each market we are trading through a proprietary algorithm.
 
 ### Why is market-type awareness important?
 
