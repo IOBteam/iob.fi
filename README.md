@@ -46,7 +46,7 @@ Trading methods and strategies are not one-size-fits-all. A certain strategy may
 
 ### Again, what is the best trading strategy?
 
-This is no one single "best strategy." Each very bullish, bullish, choppy, bearish, or very bearish market type calls for a different trading strategy for that market on that trading day.
+There is no one single "best strategy." Each very bullish, bullish, choppy, bearish, or very bearish market type calls for a different trading strategy for that market on that trading day.
 
 ### What are ioBots trading signals?
 
