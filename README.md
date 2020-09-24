@@ -76,7 +76,7 @@ The DEFY token on the Defy DAO provides an open, auditable record for fund inflo
 
 The use of a DAO structure helps fundamentally change the decades-old fund structure, from fundraising to accounting, reporting, and auditing. No traditional third-party custodian and transfer agent required.
 
-### What's the difference between Defy and liquidity pools?
+### What's the difference between Defy and other liquidity pools?
 
 Currently, all the diversified liquidity pools are passive mixers of tokens. Some of them are similar to sector-specific ETFs. Since cryptocurrencies are highly correlated, they may suffer large drawdowns \(sometimes all coins drop over 80% from their peaks in a short period of time\) as the cryptocurrencies regularly exhibit in the past. Defy will actively trade in derivatives representing different asset classes, mitigating excessive drawdown risk.
 
@@ -84,7 +84,9 @@ Most liquidity pools hold just a few high-flying tokens at the time of their cre
 
 ### What do I get by investing in Defy Fund?
 
-The possibility of consistent capital appreciation for years to come. Defy Fund is not designed to chase the newest fad that may be associated with excessive risks.
+The possibility of consistent capital appreciation for years to come. 
+
+Defy Fund is not designed to chase the newest fad that may be associated with excessive risks.
 
 To encourage our community-driven governance, Defy Fund investors and liquidity providers are granted FI governance token staking rewards.
 
@@ -98,7 +100,7 @@ For the high-performance trading systems, Prodefy is akin to Bloomberg Markets o
 
 ### Who needs Prodefy?
 
-The institutional hedge fund trades and Wall Street firms.
+The institutional hedge fund traders and Wall Street firms.
 
 One of the obstacles that have prevented the large hedge funds from the crypto investing and trading is that the crypto trading infrastructure is incompatible with their existing trading systems.
 
