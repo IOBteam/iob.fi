@@ -8,7 +8,7 @@ iob.fi is a DAO-governed **hedge fund manager**. Through its DeFi funds and the 
 
 ## Why this is a big deal:
 
-Traders in the future will have no need to set up trading accounts all over the world as we have been doing: New York, Chicago, Shanghai, London, Frankfurt, Sydney... Nor is there a need to make foreign currency exchanges to fund those accounts. 
+Traders in the future will have **no need to** set up trading accounts all over the world as we have been doing: New York, Chicago, Shanghai, London, Frankfurt, Sydney... Nor is there a need to make foreign currency exchanges to fund those accounts. 
 
 ## On this docs section, you will find:
 
