@@ -6,13 +6,3 @@
 
 * [FAQ](getting-started/faq.md)
 
-## iob.fi dao
-
-## defy dao
-
-## defy fund
-
-## prodefy
-
-## dev resources
-
