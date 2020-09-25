@@ -4,7 +4,7 @@
 _Documents here are draft versions. More docs are being prepared and will be added continuously. Information contained here may be incomplete, inaccurate, or out of date. Built by a global community, we encourage community members to help edit on GitHub._
 {% endhint %}
 
-iob.fi is a DAO-governed **hedge fund manager**. Through its DeFi funds and the Prodefy technology platform, iob.fi enables both **retail investors** and **institutional traders** the opportunity to invest in _all asset classes_ including cryptos, stocks, commodities, and indices in one place with just a _Web3 wallet_. 
+iob.fi is a DAO-governed **hedge fund manager**. Through its DeFi funds and the Prodefy technology platform, iob.fi enables both **retail investors** and **institutional traders** the opportunity to invest in _all asset classes_ including cryptos, stocks, commodities, and indices in one place with just a **Web3 wallet** _without border, and without fiat currency restriction_. 
 
 ## Why this is a big deal:
 
