@@ -1,7 +1,7 @@
 # iob.fi - Managed DeFi Funds
 
 {% hint style="danger" %}
-_Documents here currently are draft versions._ 
+_Documents here are currently draft versions._ 
 
 _More docs are being prepared and will be added continuously. Information contained here may be incomplete, inaccurate, or out of date. Built by a global community, we encourage community members to help edit on GitHub._
 {% endhint %}
