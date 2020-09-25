@@ -4,7 +4,7 @@
 
 ### What is iob.fi?
 
-iob.fi is a decentralized autonomous organization \(DAO\) hedge fund manager and DeFi technology developer.
+iob.fi is a decentralized autonomous organization \(DAO\) hedge fund manager and a DeFi technology developer.
 
 ### What does iob.fi do?
 
@@ -20,7 +20,7 @@ In the past 12 months, ioBots has demonstrated above-average returns in real-tim
 
 ## Fund products for retail investors
 
-### What is the most important thing in investment and trading success?
+### What is the most important thing in investing and trading success?
 
 Consistency is the \#1 secret to be a winning trader, but most traders fail to achieve it. Long-term views always win in trading. Most failed traders inadvertently treating trading as an adventure, rather than a profit-making business, therefore fail to achieve consistency.
 
