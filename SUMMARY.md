@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is iob.fi](README.md)
+* [iob.fi - Managed DeFi Funds](README.md)
 
 ## getting started
 
