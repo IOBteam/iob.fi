@@ -204,7 +204,11 @@ Eventually, the role of the 'central bank' will be given to the entire community
 
 ### What is the difference between IOB and FI?
 
-IOB holders are entitled to receive dividends from iob.fi business activities while FI is not.   
+IOB holders are entitled to receive dividends from iob.fi business activities while FI is not.
+
+### Where and how can I exchange my IOB to FI?
+
+Once the required voting majority has approved the token conversion on iob.fi DAO and the conversion event is enacted, all IOB holders can then clicking on "[Token Request](https://rinkeby.client.aragon.org/?#/iobe/0x1ee5073065f9537f91da424f84c68d3f85cdafe1/)" to make the exchange. 
 
 ### What will happen to IOB Power points on SiP?
 
