@@ -4,5 +4,6 @@
 
 ## getting started
 
+* [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq.md)
 
