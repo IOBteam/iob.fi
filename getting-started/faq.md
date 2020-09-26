@@ -10,7 +10,7 @@ iob.fi is a decentralized autonomous organization \(DAO\) hedge fund manager and
 
 iob.fi manages multi-asset-class hedge funds aiming to achieve superior returns with controlled max drawdowns.
 
-Unable to find a Web3 solution in order to interact with the various DeFi platforms by our "black box" trading system, we have decided to develop one, the Prodefy platform, for our quantitative trading platform. To lead the effort of decentralized finance adoption by institutional traders, we will open it up for Wall Street firms as an open-source project.
+Unable to find a Web3 solution in order to interact with the various DeFi platforms by our "black box" trading system, we have decided to develop one, the Prodefy platform, for our quantitative trading platform. Other institutional traders can use it too as we are developing Prodefy as an open-source project in partnership with several Wall Street veterans. 
 
 ### Why iob.fi?
 
@@ -36,7 +36,7 @@ The key to consistency is to keep what you have earned, and the key to that is t
 
 For any trading strategy to work well, you first must identify what the Market Type is at the moment.
 
-### Why are the iob Market Types?
+### What are the iob Market Types?
 
 iob.fi identifies which of the 5 Market Types -- Very Bullish, Bullish, Choppy, Bearish, or Very Bearish -- is underway every day for each market we are trading through a proprietary algorithm.
 
