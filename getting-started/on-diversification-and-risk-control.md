@@ -1,6 +1,6 @@
 # On diversification and risk control
 
-Defy Fund gives retail investors to get exposure to cryptos, forex, commodity futures, and stocks.
+Defy Fund gives retail investors the exposure to cryptos, forex, commodity futures, and stocks.
 
 ## Why we diversify?
 
