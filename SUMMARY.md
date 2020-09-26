@@ -7,7 +7,7 @@
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq.md)
 
-## Smart Contract
+## Smart Contracts
 
-* [Addresses](smart-contract/addresses.md)
+* [Addresses](smart-contracts/addresses.md)
 
