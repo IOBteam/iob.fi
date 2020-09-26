@@ -202,6 +202,10 @@ In the beginning, iob.fi DAO core members act as a 'central bank' that controls 
 
 Eventually, the role of the 'central bank' will be given to the entire community, no longer in the hands of the core members.  
 
+### What is the difference between IOB and FI?
+
+IOB holders are entitled to receive dividends from iob.fi business activities while FI is not.   
+
 ### What will happen to IOB Power points on SiP?
 
 They are yours to keep and are exchangeable to IOB tokens. 
