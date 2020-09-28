@@ -26,7 +26,7 @@ DEFY
 
 Token Contract address:
 
-0xce1dd81e1e0c9fd52846d92be9a4f9fa34539ca5
+0xba05b409d00050a655fe7441405717eec2c9a573
 
 iob Defy is a one of the first DeFi actively managed fund pools on DEXes. The DEFY token is a "product token" of the Defy fund. Its transparency is governed by a DAO.
 
