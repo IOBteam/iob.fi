@@ -4,7 +4,9 @@ Defy Fund gives retail investors exposure to cryptos, forex, commodity futures, 
 
 ## Why we diversify?
 
-Most fund managers state that they diversify to reduce portfolio risk. That is not the reason for us to trade as many classes of assets as possible. 
+Most fund managers state that they diversify to reduce portfolio risk. 
+
+That is not the reason for us to trade as many classes of assets as possible. 
 
 We diversify using several DeFi platforms for the following two main reasons:
 
