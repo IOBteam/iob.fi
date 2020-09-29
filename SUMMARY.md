@@ -10,4 +10,5 @@
 ## Smart Contracts
 
 * [Addresses](smart-contracts/addresses.md)
+* [Useful tools](smart-contracts/useful-tools.md)
 
