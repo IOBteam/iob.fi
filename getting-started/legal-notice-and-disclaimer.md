@@ -1,6 +1,6 @@
 # Legal notice and disclaimer
 
-## iob.fi DAO & Defy Fund DAO
+## iob.fi DAO & Defy Fund DAO products
 
 The products described in this material are available for purchase and sale only in jurisdictions outside the United States in which such purchase and sale are permissible under applicable law. These products may not be purchased or sold by any person located or any entity organized in the United States, by any person whose principal residence is in the United States or any entity with its principal place of business in the United States. If it is determined that any United States person, as defined in the preceding sentence, has purchased or sold these products, such persons will be subject to actions for rescission of the transactions and for damages.
 
