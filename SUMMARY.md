@@ -4,9 +4,9 @@
 
 ## getting started
 
+* [Legal notice and disclaimer](getting-started/legal-notice-and-disclaimer.md)
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq.md)
-* [Legal notice and disclaimer](getting-started/legal-notice-and-disclaimer.md)
 
 ## Smart Contracts
 
