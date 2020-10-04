@@ -1,6 +1,6 @@
 # Addresses
 
-## Testnet DAOs
+## DAOs
 
 {% tabs %}
 {% tab title="Mainnet" %}
