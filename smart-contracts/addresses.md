@@ -11,7 +11,7 @@ Coming soon
 | Contracts | URL |  |
 | :--- | :--- | :--- |
 | iob.fi \(fi\) DAO | [https://rinkeby.client.aragon.org/\#/fi/](https://rinkeby.client.aragon.org/#/fi/) |  |
-| Defy Fund \(fund2\) DAO | [https://rinkeby.client.aragon.org/?\#/fund2.aragonid.eth](%20https://rinkeby.client.aragon.org/?#/fund2.aragonid.eth) |  |
+| Defy Fund \(fund2\) DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) |  |
 {% endtab %}
 {% endtabs %}
 
