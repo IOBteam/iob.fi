@@ -10,8 +10,8 @@ Coming soon
 {% tab title="Rinkeby" %}
 | Contracts | URL |  |
 | :--- | :--- | :--- |
-| iob.fi \(fi\) DAO | [https://rinkeby.client.aragon.org/\#/fi/](https://rinkeby.client.aragon.org/#/fi/) |  |
-| Defy Fund \(fund2\) DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) |  |
+| iob.fi DAO | [https://rinkeby.client.aragon.org/\#/fi/](https://rinkeby.client.aragon.org/#/fi/) |  |
+| Defy Fund DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) |  |
 {% endtab %}
 {% endtabs %}
 
