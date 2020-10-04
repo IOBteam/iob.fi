@@ -26,9 +26,9 @@ Coming soon
 {% tab title="Rinkeby" %}
 | Contracts | Address |
 | :--- | :--- |
-| BFI token |  ![](../.gitbook/assets/bfi.png)[`0xb578f5475f72009597285b42dafd99fdcf91910b`](https://rinkeby.etherscan.io/token/0xb578f5475f72009597285b42dafd99fdcf91910b)\`\` |
+| BFI token | ![](../.gitbook/assets/bfi.png) [`0xb578f5475f72009597285b42dafd99fdcf91910b`](https://rinkeby.etherscan.io/token/0xb578f5475f72009597285b42dafd99fdcf91910b)\`\` |
 | FI token | ![](../.gitbook/assets/fi.png) [`0x940770de6b8ea132ca634079917cace432025883`](https://rinkeby.etherscan.io/token/0x940770de6b8ea132ca634079917cace432025883)\`\` |
-| DEFY token | ![](../.gitbook/assets/fi.png) [`0xba05b409d00050a655fe7441405717eec2c9a573`](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573)\`\` |
+| DEFY token | ![](../.gitbook/assets/defy.png) [`0xba05b409d00050a655fe7441405717eec2c9a573`](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573)\`\` |
 {% endtab %}
 {% endtabs %}
 
