@@ -6,7 +6,7 @@ Many of today's DAOs are not living up to their promise. Aside from low particip
 
 We are proposing a novel approach to help solve some of the problems. 
 
-### An electoral college plus popular vote system
+### An electoral college plus a popular vote system
 
 All governance tokens are not free in reality. Most of the public holders are buying them for price speculation only, not voting, the tokens' true purpose of existence. Coupled with the high gas fee that is required for each vote, voting participation is generally low by the public token holders. On the other hand, anyone can acquire testnet tokens and vote for free with some dedicated efforts on the testnet.  
 
