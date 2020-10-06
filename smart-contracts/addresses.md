@@ -1,5 +1,9 @@
 # Addresses
 
+Mainnet coming soon!
+
+Now addresses are for Rinkeby testnet DAO voting testing only. 
+
 ## DAOs
 
 {% tabs %}
@@ -25,9 +29,9 @@ Coming soon
 {% tab title="Rinkeby" %}
 | Contracts | Address |
 | :--- | :--- |
-| IOB-r token | ![](../.gitbook/assets/iob-r.png) [`0xd1aa1b29937d2fea8a2b85bde97bc378e52e103c`](https://rinkeby.etherscan.io/token/0xd1aa1b29937d2fea8a2b85bde97bc378e52e103c)\`\` |
-| FI token | ![](../.gitbook/assets/fi.png) [`0x940770de6b8ea132ca634079917cace432025883`](https://rinkeby.etherscan.io/token/0x940770de6b8ea132ca634079917cace432025883)\`\` |
-| DEFY token | ![](../.gitbook/assets/defy.png) [`0xba05b409d00050a655fe7441405717eec2c9a573`](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573)\`\` |
+| IOB-r token \(testnet\) | ![](../.gitbook/assets/iob-r.png) [`0xd1aa1b29937d2fea8a2b85bde97bc378e52e103c`](https://rinkeby.etherscan.io/token/0xd1aa1b29937d2fea8a2b85bde97bc378e52e103c)\`\` |
+| FI token \(testnet\) | ![](../.gitbook/assets/fi.png) [`0x940770de6b8ea132ca634079917cace432025883`](https://rinkeby.etherscan.io/token/0x940770de6b8ea132ca634079917cace432025883)\`\` |
+| DEFY token \(testnet\) | ![](../.gitbook/assets/defy.png) [`0xba05b409d00050a655fe7441405717eec2c9a573`](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573)\`\` |
 {% endtab %}
 {% endtabs %}
 
