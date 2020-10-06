@@ -187,7 +187,7 @@ Up to 12% of tokens are intended to be mostly distributed to iob.fi fund investo
 | Token distribution | % | Vesting |
 | :--- | :--- | :--- |
 | IOB holders | 48.50% | Conversions subject to DAO voting approval |
-| Core contributors | 25.00% | Must be vested |
+| Core contributors | 25.00% | Must be vested and subject to DAO voting approval |
 | Prodefy Ecosystem | 5.00% | No |
 | Private sale 1 | 2.00% | Must be vested |
 | Airdrop lotteries | 1.00% | No |
