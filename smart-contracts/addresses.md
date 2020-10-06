@@ -14,7 +14,7 @@ Coming soon
 {% tab title="Rinkeby" %}
 | Contracts | URL |  |
 | :--- | :--- | :--- |
-| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/iobfi/](https://rinkeby.client.aragon.org/#/iobfi/) |  |
+| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) |  |
 | Defy Fund DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) |  |
 {% endtab %}
 {% endtabs %}
@@ -29,7 +29,7 @@ Coming soon
 {% tab title="Rinkeby" %}
 | Tokens | Address |  |
 | :--- | :--- | :--- |
-| FI-POPULAR-VOTE | [0xfd81b713c91130117ca8be925167356b7c7b0c03](https://rinkeby.etherscan.io/token/0xfd81b713c91130117ca8be925167356b7c7b0c03) | Testnet token |
+| FI-POPULAR-VOTE | [0x0a774ed04f2eb7a34b7cab01577aeaba8528a604](https://rinkeby.etherscan.io/token/0x0a774ed04f2eb7a34b7cab01577aeaba8528a604) | Testnet token |
 | DEFY | [0xba05b409d00050a655fe7441405717eec2c9a573](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573) | Testnet token |
 {% endtab %}
 {% endtabs %}
