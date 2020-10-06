@@ -184,17 +184,17 @@ FI aligns incentives in the iob.fi DAO for value creation and economic growth. B
 
 Up to 12% of tokens are intended to be mostly distributed to iob.fi fund investors in the coming years.
 
-| Token distribution | % |
-| :--- | :--- |
-| IOB holders | 48.50% |
-| Core contributors | 25.00% |
-| Prodefy Ecosystem | 5.00% |
-| Private sale 1 | 2.00% |
-| Airdrop lotteries | 1.00% |
-| Private sale 2 | 3.00% |
-| Staking rewards | 12.00% |
-| Reserve | 3.50% |
-| Total | 100.00% |
+| Token distribution | % | Vesting |
+| :--- | :--- | :--- |
+| IOB holders | 48.50% | Conversions subject to DAO voting approval |
+| Core contributors | 25.00% | Must be vested |
+| Prodefy Ecosystem | 5.00% | No |
+| Private sale 1 | 2.00% | Must be vested |
+| Airdrop lotteries | 1.00% | No |
+| Private sale 2 | 3.00% | Must be vested |
+| Staking rewards | 12.00% | No |
+| Reserve | 3.50% | N/A |
+| Total | 100.00% |  |
 
 ### Do I get any additional benefits for holding FI over the long term?
 
