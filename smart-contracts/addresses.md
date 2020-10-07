@@ -14,7 +14,7 @@ Coming soon
 {% tab title="Rinkeby" %}
 | Contracts | URL |  |
 | :--- | :--- | :--- |
-| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) |  |
+| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) | Voting for free |
 {% endtab %}
 {% endtabs %}
 
