@@ -11,7 +11,7 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 Coming soon
 {% endtab %}
 
-{% tab title="Rinkeby" %}
+{% tab title="Popular Voting on Rinkeby" %}
 | Contracts | URL |  |
 | :--- | :--- | :--- |
 | iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) | Voting for free |
@@ -25,7 +25,7 @@ Coming soon
 Coming soon
 {% endtab %}
 
-{% tab title="Rinkeby" %}
+{% tab title="Popular Voting on Rinkeby" %}
 | Tokens | Address |  |
 | :--- | :--- | :--- |
 | FI-POPULAR-VOTE | [0x0a774ed04f2eb7a34b7cab01577aeaba8528a604](https://rinkeby.etherscan.io/token/0x0a774ed04f2eb7a34b7cab01577aeaba8528a604) | Voting token |
