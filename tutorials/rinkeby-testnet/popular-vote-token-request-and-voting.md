@@ -2,7 +2,7 @@
 
 ## Setting up MetaMask on PC
 
-MetaMask is a Web3 wallet.
+MetaMask is a Web3 wallet. Rinkeby uses test ETH, not the regular ETH. 
 
 ### Installing MetaMask for your browser
 
