@@ -240,7 +240,7 @@ By holding FI you can benefit from any potential increase in the value of the io
 
 ### Where is FI listed?
 
-FI token initial liquidity on Uniswap will be 1 FI=5 ETH, funded by the iob.fi team. The initial liquidity is locked for no less than 12 months. iob.fi plans add liquidity over time, and will never remove it.
+FI token initial liquidity on Uniswap will be 1 FI=5 ETH, funded by the iob.fi team. The initial liquidity is locked for no less than 12 months. iob.fi plans to add liquidity over time, and will never remove it.
 
 ## IOB Token
 
