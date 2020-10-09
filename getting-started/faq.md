@@ -18,6 +18,44 @@ iob.fi seeks consistent capital appreciation. With over 20 years in managing var
 
 In the past 12 months, ioBots has demonstrated above-average returns in real-time, real-money trading while being constantly developed. Changes were made daily sometimes. The ioBots-generated trading signals have been tracked in real-time on [iob.fund](https://iob.fund). If the signals automatically invested with $10,000 each time, the model portfolio would have made over 150% in the first 12-month period. ioBots has added new markets continuously and gradually. The original 6 starting markets \(crypto pairs\) have demonstrated gains ranging from 183.9% to 597.35% for the first 12 months.
 
+### **Who is behind iob.fi?**
+
+A team of financial and blockchain veterans has been working over four years to build iob.fi since early 2016. As the nascent DeFi technology evolves, we will never stop innovating together with other industry-leading projects such as Uniswap, TokenSets, Balancer, and the others to help bring decentralized finance to go mainstream.
+
+#### **Core contributors**
+
+**Yale ReiSoleil** 
+
+Having started his financial career in 1996, Yale worked in mutual funds, venture capital, private equity, and hedge funds with high-frequency trading \(HFT\) partners. With his diverse experience in several financial sectors managing over $3 billion funds, Yale has been a pioneer in utilizing and advancing emerging financial technologies. Yale and Dr. D are trailblazers in HFT in China. In 2013, they partnered with China Telecom to build the first dedicated trans-Pacific fiber-optic line linking the New York financial data center to his Shanghai-based commodities hedge fund. 
+
+An unexpected event in 2015 propelled Yale to look into the fledgling decentralized currencies called Bitcoin and Ether. Having spent millions building a proprietary ‘black box’ algorithmic trading hardware and software system co-located in Shanghai Futures Exchange \(SHFE\) datacenter, the firm’s good time in being one of the biggest stock index futures HFT traders in China came to an abrupt halt when the local government banned it. Being aware of the danger posed by any centralized authorities led him to buy his first BTC at $430 and ETH at $8. 
+
+Yale is the fund manager of [Quasar Fund](https://iob.fund/), chief architect of ioBots trading algorithms, and a firm believer in decentralized finance \(DeFi\). 
+
+**Dr. D** 
+
+Dr. D’s Ph.D. program was sponsored by Cisco’s research for the next generation of Internet Protocols. Dr. D is a vice president of trading technology in a top Wall Street firm. He has more than 10 years’ experience in High-Frequency Trading and Quantitative Trading platform design. His expertise is mainly in trading platform software/hardware design, trading network design, and trading strategy design and implementation. The trading systems designed by him are running in tens of main stocks and futures exchanges in North America, Europe, and Asia.
+
+**Fred Fei**
+
+Fred Fei is a Quantitative Trading Analyst. He is a Senior Staff System Engineer with over 10 years of experience in a multinational telecommunications company in charge of system integration with working experience in China, India, Malaysia.
+
+#### Advisors
+
+**Alexander Borodich**
+
+Alexander is a pioneer in the fields of innovation and the blockchain world. He was named “The Most Active Business Angel in Russia” by ****the ****Russian Venture Company. He is Chief Dream Officer and Managing Partner of Marketing Communication Agency Future Action, founder of VentureClub.co, the fifth-largest crowd-investing platform in Europe, and founder of Russian Cryptocurrency and an investor in more than 70 projects. 
+
+Alexander has a U.S. patent in the estimation of the effectiveness of information spread in social networks.
+
+**Amit Srivastava** 
+
+Amit is Senior Partner at Cycle Capital and Senior Portfolio Manager at Qingdao High Technology Equity Investment Fund. He has more than 30 years in operational, Venture Capital, cross-border transactions, and fund management in high tech companies. He is also CEO of Entrepia Ventures. Amit holds an MBA from the Wharton School of the University of Pennsylvania. 
+
+**Erik Gallegos** 
+
+Erik is an Adjunct Professor of Finance, International, Technology & Entrepreneurship \(FITE\) Department, Anderson School of Management at the University of New Mexico. He has 27 years of international business consulting experience and is an Independent Registered Securities Representative advising investment strategies for individual, corporate, and trust clients.
+
 ## Fund products for retail investors
 
 ### What is the most important thing in investing and trading success?
@@ -199,6 +237,10 @@ Up to 12% of tokens are intended to be mostly distributed to iob.fi fund investo
 ### Do I get any additional benefits for holding FI over the long term?
 
 By holding FI you can benefit from any potential increase in the value of the iob.fi and its related products and services.
+
+### Where is FI listed?
+
+FI token initial liquidity on Uniswap will be 1 FI=5 ETH, funded by the iob.fi team. The initial liquidity is locked for no less than 12 months. iob.fi plans add liquidity over time, and will never remove it.
 
 ## IOB Token
 
