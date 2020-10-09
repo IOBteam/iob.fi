@@ -34,7 +34,7 @@ Yale is the fund manager of [Quasar Fund](https://iob.fund/), chief architect of
 
 **Dr. D** 
 
-Dr. D’s Ph.D. program was sponsored by Cisco’s research for the next generation of Internet Protocols. Dr. D is a vice president of trading technology in a top Wall Street firm. He has more than 10 years’ experience in High-Frequency Trading and Quantitative Trading platform design. His expertise is mainly in trading platform software/hardware design, trading network design, and trading strategy design and implementation. The trading systems designed by him are running in tens of main stocks and futures exchanges in North America, Europe, and Asia.
+Dr. D’s Ph.D. program was sponsored by Cisco’s research for the next generation of Internet Protocols. Dr. D is a vice president of trading technology in a top Wall Street firm. He has more than 10 years’ experience in High-Frequency Trading and Quantitative Trading platform design. His expertise is mainly in trading platform software/hardware design, trading network design, and trading strategy design and implementation. The trading systems designed by him are running in dozens of stocks and futures exchanges in North America, Europe, and Asia.
 
 **Fred Fei**
 
