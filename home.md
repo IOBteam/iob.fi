@@ -1,4 +1,6 @@
-# Beyond. Yield. Farming.
+# Beyond Yield Farming
+
+# Stake. Trade. Consistency.
 
 ## Investing in cryptos, stocks, commodities and indices in one place
 
