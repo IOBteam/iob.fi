@@ -24,6 +24,24 @@ It also owns a substantial purse of IOB and FI tokens which allows it to be trul
 
 Voting takes place on the iob.fi's governance interface powered by Aragon
 
+# Popular Vote
+
+## A HYBRID VOTING SYSTEM
+
+We are proposing a novel approach to help solve some of the problems.
+
+##### True democracy
+
+Not only for the rich. Anyone can vote for free
+
+##### Earning FI through voting
+
+Each successful vote on our DAOs is rewarded with FI token reward, paid out periodically.
+
+##### Your free vote counts!
+
+Your testnet vote result is delegated to a representative (an elector) on the Mainnet DAO to be cast on the proposal with a certain proportion of the total voting power.
+
 ## BUILD WITH US
 
 Together, we make decisions as a group, reward individuals for their contributions, and share in the common benefit.
