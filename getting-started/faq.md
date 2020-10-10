@@ -38,7 +38,7 @@ Dr. D’s Ph.D. program was sponsored by Cisco’s research for the next generat
 
 **Fred Fei**
 
-Fred Fei is a Quantitative Trading Analyst. He is a Senior Staff System Engineer with over 10 years of experience in a multinational telecommunications company in charge of system integration with working experience in China, India, Malaysia.
+Fred Fei is a System Integration Architect. He is a Senior Staff System Engineer with over 10 years of experience in a multinational telecommunications company in charge of system integration with working experience in China, India, Malaysia.
 
 #### Advisors
 
