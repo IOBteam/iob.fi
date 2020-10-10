@@ -2,7 +2,7 @@
 
 ## _True democracy, not only for the rich_
 
-Many of today's DAOs are not living up to their promise. Aside from low participation, they are generally not truly decentralized in the decision-making process and results. 
+Many of today's DAOs are not living up to their promise. Aside from low participation, they are generally not truly decentralized in the decision-making process and its results. 
 
 We are proposing a novel approach to help solve some of the problems. 
 
