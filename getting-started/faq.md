@@ -2,7 +2,7 @@
 
 ## General Questions
 
-### What is iob.fi?
+### What is iob.fi DAO?
 
 iob.fi is a decentralized autonomous organization \(DAO\) hedge fund manager and a DeFi technology developer.
 
