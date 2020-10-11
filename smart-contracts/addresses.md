@@ -8,7 +8,9 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 
 {% tabs %}
 {% tab title="Mainnet" %}
-Coming soon
+| Contracts | URL |
+| :--- | :--- |
+| iob.fi DAO | [https://client.aragon.org/\#/iob/](https://client.aragon.org/#/iob/) |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
@@ -23,6 +25,10 @@ Coming soon
 {% tabs %}
 {% tab title="Mainnet" %}
 Coming soon
+
+| Token | Address | Listed |
+| :--- | :--- | :--- |
+| FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) |  |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
