@@ -48,7 +48,7 @@ Fred Fei is a System Integration Architect. He is a Senior Staff System Engineer
 
 **Tal Elyashiv**
 
-Tal is a senior executive, a serial entrepreneur, and an investor. On the corporate side, Tal was a CIO at Bank of America, CIO at Capital One, CTO & Head of New Businesses at 888, and COO at BondDesk. As an entrepreneur, Tal was a founder at Navion, Exactor, Yallo, SPiCE VC, and Securitize with multiple exits under his belt. For over a decade, prior to founding SPiCE VC Tal was an early-stage investor and board member in numerous companies with multiple exists. 
+Tal is a senior executive, serial entrepreneur, and investor. On the corporate side, Tal was a CIO at Bank of America, CIO at Capital One, CTO & Head of New Businesses at 888, and COO at BondDesk. As an entrepreneur, Tal was a founder at Navion, Exactor, Yallo, SPiCE VC, and Securitize with multiple exits under his belt. For over a decade, prior to founding SPiCE VC Tal was an early-stage investor and board member in numerous companies with multiple exists. 
 
 [LinkedIn](https://www.linkedin.com/in/talelyashiv/)
 
@@ -59,6 +59,10 @@ Alexander is a pioneer in the fields of innovation and the blockchain world. He 
 Alexander has a U.S. patent in the estimation of the effectiveness of information spread in social networks.
 
 [LinkedIn](https://www.linkedin.com/in/borodich/)
+
+**Technology Evangelist** 
+
+A top executive at one of the world's top financial centers, Technology Evangelist with 30 years’ experience delivering large transformation programs in a range of industries from media, to retail and public sector. Worked across a number of large consultancies as an ‘executive geek’, remaining true to his engineering background and striving for simple, innovative disruptive solutions. Over the past 5 years has taken a hands-on interest in the power of blockchain technology working across startups and community projects and now supports a number of funds and private banks with their investment decisions, due diligence, and structuring of large transactions.
 
 **Amit Srivastava** 
 
