@@ -1,6 +1,6 @@
 # On diversification and risk control
 
-Defy Fund gives retail investors exposure to cryptos, forex, commodity futures, and stocks.
+iob.fi funds give retail investors exposure to cryptos, forex, commodity futures, and stocks.
 
 ## Why we diversify?
 
