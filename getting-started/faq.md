@@ -32,6 +32,8 @@ An unexpected event in 2015 propelled Yale to look into the fledgling decentrali
 
 Yale is the fund manager of [Quasar Fund](https://iob.fund/), chief architect of ioBots trading algorithms, and a firm believer in decentralized finance \(DeFi\). 
 
+[LinkedIn](https://www.linkedin.com/in/reisoleil/)
+
 **Dr. D** 
 
 Dr. D’s Ph.D. program was sponsored by Cisco’s research for the next generation of Internet Protocols. Dr. D is a vice president of trading technology in a top Wall Street firm. He has more than 10 years’ experience in High-Frequency Trading and Quantitative Trading platform design. His expertise is mainly in trading platform software/hardware design, trading network design, and trading strategy design and implementation. The trading systems designed by him are running in dozens of stocks and futures exchanges in North America, Europe, and Asia.
@@ -40,7 +42,15 @@ Dr. D’s Ph.D. program was sponsored by Cisco’s research for the next generat
 
 Fred Fei is a System Integration Architect. He is a Senior Staff System Engineer with over 10 years of experience in a multinational telecommunications company in charge of system integration with working experience in China, India, Malaysia.
 
+[LinkedIn](https://www.linkedin.com/in/feizhenhao/)
+
 #### Advisors
+
+**Tal Elyashiv**
+
+Tal is a senior executive, a serial entrepreneur, and an investor. On the corporate side, Tal was a CIO at Bank of America, CIO at Capital One, CTO & Head of New Businesses at 888, and COO at BondDesk. As an entrepreneur, Tal was a founder at Navion, Exactor, Yallo, SPiCE VC, and Securitize with multiple exits under his belt. For over a decade, prior to founding SPiCE VC Tal was an early-stage investor and board member in numerous companies with multiple exists. 
+
+[LinkedIn](https://www.linkedin.com/in/talelyashiv/)
 
 **Alexander Borodich**
 
@@ -48,13 +58,13 @@ Alexander is a pioneer in the fields of innovation and the blockchain world. He 
 
 Alexander has a U.S. patent in the estimation of the effectiveness of information spread in social networks.
 
+[LinkedIn](https://www.linkedin.com/in/borodich/)
+
 **Amit Srivastava** 
 
 Amit is Senior Partner at Cycle Capital and Senior Portfolio Manager at Qingdao High Technology Equity Investment Fund. He has more than 30 years in operational, Venture Capital, cross-border transactions, and fund management in high tech companies. He is also CEO of Entrepia Ventures. Amit holds an MBA from the Wharton School of the University of Pennsylvania. 
 
-**Erik Gallegos** 
-
-Erik is an Adjunct Professor of Finance, International, Technology & Entrepreneurship \(FITE\) Department, Anderson School of Management at the University of New Mexico. He has 27 years of international business consulting experience and is an Independent Registered Securities Representative advising investment strategies for individual, corporate, and trust clients.
+[LinkedIn](https://www.linkedin.com/in/amit-srivastava-b80153/)
 
 ## Fund products for retail investors
 
