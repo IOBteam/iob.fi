@@ -1,8 +1,8 @@
 # DAO FAQ
 
-### What is iob.fi DAO management team?
+### What is the iob.fi DAO management team?
 
-There is no central leadership, decisions are made in a bottom-up way. It has its own rules, such as how to manage funds that belong to iob.fi.
+There is no central leadership, decisions are made in a bottom-up way. It has its own rules, such as how to manage funds that belong to iob.fi. The organization is running under a global network of contributors. The core contributors can be reached [here](https://discord.gg/nszVFC). 
 
 ### Where is iob.fi DAO registered?
 
