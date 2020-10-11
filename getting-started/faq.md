@@ -6,19 +6,19 @@
 
 iob.fi is a decentralized autonomous organization \(DAO\) hedge fund manager and a DeFi technology developer.
 
-### What does iob.fi do?
+### What does iob.fi DAO do?
 
 iob.fi manages multi-asset-class hedge funds aiming to achieve superior returns with controlled max drawdowns.
 
 Unable to find a Web3 solution in order to interact with the various DeFi platforms by our "black box" trading system, we have decided to develop one, the Prodefy platform, for our quantitative trading platform. Other institutional traders can use it too as we are developing Prodefy as an open-source project in partnership with several Wall Street veterans. 
 
-### Why iob.fi?
+### Why iob.fi DAO?
 
 iob.fi seeks consistent capital appreciation. With over 20 years in managing various types of funds totaling billions of dollars, iob.fi founding members have developed a cryptocurrency trading system called ioBots. ioBots is a set of rule-based algorithmic trading strategies, order, risk, and asset management tools.
 
 In the past 12 months, ioBots has demonstrated above-average returns in real-time, real-money trading while being constantly developed. Changes were made daily sometimes. The ioBots-generated trading signals have been tracked in real-time on [iob.fund](https://iob.fund). If the signals automatically invested with $10,000 each time, the model portfolio would have made over 150% in the first 12-month period. ioBots has added new markets continuously and gradually. The original 6 starting markets \(crypto pairs\) have demonstrated gains ranging from 183.9% to 597.35% for the first 12 months.
 
-### **Who is behind iob.fi?**
+### **Who is behind iob.fi DAO?**
 
 A team of financial and blockchain veterans has been working over four years to build iob.fi since early 2016. As the nascent DeFi technology evolves, we will never stop innovating together with other industry-leading projects such as Uniswap, TokenSets, Balancer, and the others to help bring decentralized finance to go mainstream.
 
