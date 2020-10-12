@@ -22,12 +22,6 @@ During Phase 1 of the DAO deployment, only some of the core members are designat
 
 IOB holders can vote on ALL matters on iob.fi DAO through wIOB while FI holders can vote on most, but not all policies. For instance, FI cannot vote on IOB to FI conversion proposals. However, most FI holders are at the same time IOB holders during the first two phases of DAO's deployment, we do not see a drastic conflict between the two camps.
 
-### Why do I need to wrap IOB tokens into wIOB?
-
-wIOB tokens are needed for voting on iob.fi DAO. 
-
-IOB token code was created in 2017 and is not upgradable. We have been building a wrap feature on iob.fi DAO so IOB holders can wrap their tokens to participate in voting on the DAO. One IOB equals one wIOB and they can be unwrapped at any time, without permission from anyone, by the token owner.   
-
 ### What are the benefits of iob.fi DAO?
 
 iob.fi DAO is an inclusive, transparent, and global model for human coordination. It brings superpowers to the online community that shares our longer vision since 2017.
