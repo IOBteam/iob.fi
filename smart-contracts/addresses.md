@@ -28,6 +28,7 @@ Coming soon
 
 | Token | Address | Listed |
 | :--- | :--- | :--- |
+| IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) |  |
 | FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) |  |
 {% endtab %}
 
