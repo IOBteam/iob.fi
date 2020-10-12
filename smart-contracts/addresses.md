@@ -24,8 +24,6 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 
 {% tabs %}
 {% tab title="Mainnet" %}
-Coming soon
-
 | Token | Address | Listed |
 | :--- | :--- | :--- |
 | IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) |  |
