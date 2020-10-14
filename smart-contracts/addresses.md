@@ -1,7 +1,5 @@
 # Addresses
 
-Mainnet coming soon!
-
 Now addresses are for Rinkeby testnet DAO voting testing only. 
 
 ## DAOs
