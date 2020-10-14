@@ -254,7 +254,9 @@ By holding FI you can benefit from any potential increase in the value of the io
 
 ### Where to buy FI token?
 
-FI token initial liquidity on [Uniswap](https://info.uniswap.org/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) was 1 FI=5 ETH, funded by the iob.fi team. The initial liquidity is locked for no less than 12 months. iob.fi plans to add liquidity over time, and will never remove it.
+![](../.gitbook/assets/red-and-uni.png)
+
+FI token initial liquidity on [Uniswap was 1 FI=5 ETH](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30), funded by the iob.fi team. The initial liquidity is locked for no less than 12 months. iob.fi plans to add liquidity over time, and will never remove it.
 
 Please double check the FI token address is [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2#balances) to verify that you are interacting with the official FI token. 
 
