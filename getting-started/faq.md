@@ -252,7 +252,7 @@ Up to 12% of tokens are intended to be mostly distributed to iob.fi fund investo
 
 By holding FI you can benefit from any potential increase in the value of the iob.fi and its related products and services.
 
-### Where is FI listed?
+### Where to buy FI token?
 
 FI token initial liquidity on [Uniswap](https://info.uniswap.org/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) was 1 FI=5 ETH, funded by the iob.fi team. The initial liquidity is locked for no less than 12 months. iob.fi plans to add liquidity over time, and will never remove it.
 
