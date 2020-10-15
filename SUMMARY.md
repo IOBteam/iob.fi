@@ -7,6 +7,7 @@
 * [Legal notice and disclaimer](getting-started/legal-notice-and-disclaimer/README.md)
   * [Terms and conditions](getting-started/legal-notice-and-disclaimer/terms-and-conditions.md)
   * [Privacy Statement](getting-started/legal-notice-and-disclaimer/privacy-statement.md)
+  * [Corporate GDPR Statement](getting-started/legal-notice-and-disclaimer/corporate-gdpr-statement.md)
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq.md)
 
