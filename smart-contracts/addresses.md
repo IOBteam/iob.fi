@@ -35,6 +35,20 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% endtab %}
 {% endtabs %}
 
+## Uniswap ETH-FI trading pair
+
+{% tabs %}
+{% tab title="Mainnet" %}
+| Contracts | Address |
+| :--- | :--- |
+| Uniswap ETH-FI pool | [0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ## For the purpose of testing only
 
 {% tabs %}
