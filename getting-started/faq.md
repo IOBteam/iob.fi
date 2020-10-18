@@ -218,6 +218,8 @@ DeFi is the future of finance. iob.fi has a deep understanding of both tradition
 
 ### What is FI?
 
+![FI token logo](../.gitbook/assets/iob.fi_logo_red_250.png)
+
 FI is the iob.fi DAO governance token. It has no preset initial par value. Today FI is used for voting on proposals of all business aspects of iob.fi. FI will be used as a native token for the Prodefy technology platform in Phase 2. FI holders will be given control of the iob.fi ecosystem in Phase 3 of the iob.fi product launch.
 
 ### Why does iob.fi DAO need FI?
