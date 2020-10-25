@@ -1,7 +1,5 @@
 # Addresses
 
-Now addresses are for Rinkeby testnet DAO voting testing only. 
-
 ## Deployed smart contracts
 
 {% tabs %}
@@ -25,7 +23,8 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% tab title="Mainnet" %}
 | Token | Address | Listed |
 | :--- | :--- | :--- |
-| IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) | No |
+| IOB | [0x6130ff302f24267380753e52ece48b852be3dd38](https://etherscan.io/token/0x6130ff302f24267380753e52ece48b852be3dd38#balances) | No |
+| IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) | Replacing IOB |
 | FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) | [Uniswap](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
 | DEFY-1 | [0x7aF3B2B4093bd52309fE374C5FD05E215762c20C](https://etherscan.io/address/0x7af3b2b4093bd52309fe374c5fd05e215762c20c) | Pool token |
 {% endtab %}
@@ -47,7 +46,7 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% endtab %}
 {% endtabs %}
 
-## For the purpose of testing only
+## For testing
 
 {% tabs %}
 {% tab title="Rinkeby" %}
