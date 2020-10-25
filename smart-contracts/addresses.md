@@ -9,6 +9,7 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 | Contracts | URL |
 | :--- | :--- |
 | iob.fi DAO | [https://client.aragon.org/\#/iob/](https://client.aragon.org/#/iob/) |
+| iob Defy Fund Pool | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
@@ -26,6 +27,7 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 | :--- | :--- | :--- |
 | IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) | No |
 | FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) | [Uniswap](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
+| DEFY-1 | [0x7aF3B2B4093bd52309fE374C5FD05E215762c20C](https://etherscan.io/address/0x7af3b2b4093bd52309fe374c5fd05e215762c20c) | Pool token |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
