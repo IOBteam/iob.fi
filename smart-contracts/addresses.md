@@ -12,9 +12,9 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
-| Contracts | URL |  |
+| Contracts | URL | Decimals |
 | :--- | :--- | :--- |
-| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) | Voting for free |
+| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) | 18 |
 {% endtab %}
 {% endtabs %}
 
