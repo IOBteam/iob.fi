@@ -11,10 +11,10 @@
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq.md)
 
-## DAOs
+## DAO
 
-* [iob.fi DAOs](daos/iob.fi-daos.md)
-* [DAO FAQ](daos/dao-faq.md)
+* [iob.fi DAOs](dao/iob.fi-daos.md)
+* [DAO FAQ](dao/dao-faq.md)
 
 ## Smart Contracts
 

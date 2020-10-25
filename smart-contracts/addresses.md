@@ -24,8 +24,8 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% tab title="Mainnet" %}
 | Token | Address | Listed |
 | :--- | :--- | :--- |
-| IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) |  |
-| FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) |  |
+| IOB-V2.1 | [0xe987b1d77da83d84af43a1f1820eb4b68f3b2126](https://etherscan.io/token/0xe987b1d77da83d84af43a1f1820eb4b68f3b2126) | No |
+| FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) | [Uniswap](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
