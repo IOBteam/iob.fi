@@ -2,7 +2,7 @@
 
 Now addresses are for Rinkeby testnet DAO voting testing only. 
 
-## DAOs
+## Deployed smart contracts
 
 {% tabs %}
 {% tab title="Mainnet" %}
@@ -12,9 +12,9 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
-| Contracts | URL | Decimals |
+| Contracts | URL | Purpose |
 | :--- | :--- | :--- |
-| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) | 18 |
+| iob.fi Popular Vote DAO | [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/) | Voting for free |
 {% endtab %}
 {% endtabs %}
 
@@ -29,9 +29,9 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
-| Tokens | Address |  |
+| Tokens | Address | Decimals |
 | :--- | :--- | :--- |
-| FI-POPULAR-VOTE | [0x0a774ed04f2eb7a34b7cab01577aeaba8528a604](https://rinkeby.etherscan.io/token/0x0a774ed04f2eb7a34b7cab01577aeaba8528a604) | Voting token |
+| FI-POPULAR-VOTE | [0x0a774ed04f2eb7a34b7cab01577aeaba8528a604](https://rinkeby.etherscan.io/token/0x0a774ed04f2eb7a34b7cab01577aeaba8528a604) | 18 |
 {% endtab %}
 {% endtabs %}
 
@@ -42,10 +42,6 @@ Now addresses are for Rinkeby testnet DAO voting testing only.
 | Contracts | Address |
 | :--- | :--- |
 | Uniswap ETH-FI pool | [0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 
