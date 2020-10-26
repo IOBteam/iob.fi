@@ -21,7 +21,7 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Contribution cutoff | 31 December 2020 |
 | Staking | 12 months |
 | Staking APY | 20% FI token reward |
-| Staking payout | 21 December 2021 |
+| Staking payout | 31 December 2021 |
 | Staking credit | Pro rata |
 | Early redemption | 1% redemption fee and staking Reward forfeiture |
 | Redemption at or after payout date | 0% redemption fee + Staking reward pro rata |
