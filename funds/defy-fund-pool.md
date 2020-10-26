@@ -7,6 +7,13 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Fund pool name | iob Defy Fund |
 | Fund pool smart contracts | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
 | Network | Ethereum Mainnet |
+| Investment objective | Stable growth |
+| Investment strategies | Quantitative, both long and short |
+| Management fee | 2.0% |
+| Performance fee | 20% |
+| Hurdle rate | 12% |
+| Contribution | ETH and/or DAI |
+| Assets traded | Cryptos, stock indices, and commodity futures synthetics |
 |  |  |
 | Current investor pool  | Defy Fund Pool \#1 |
 | Pool token | DEFY-1 |
@@ -16,6 +23,8 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Staking APY | 20% FI token reward |
 | Staking payout | 21 December 2021 |
 | Staking credit | Pro rata |
+| Early redemption | 1% redemption fee and staking Reward forfeiture |
+| Redemption at or after payout date | 0% redemption fee + Staking reward pro rata |
 |  |  |
 | Next investor pool  | Defy Fund Pool \#2 |
 | Pool token  | DEFY-2 |
