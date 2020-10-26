@@ -95,12 +95,6 @@ Change the name to FI-Popular and click Next
 
 Finally, click Add Tokens
 
-
-
-\*\*\*\*
-
-
-
 ## Voting on the Rinkeby DAO
 
 Go to [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/)
