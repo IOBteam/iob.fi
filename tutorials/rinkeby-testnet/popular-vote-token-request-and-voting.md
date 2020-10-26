@@ -16,7 +16,7 @@ Chrome: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefn
 
 ![](../../.gitbook/assets/1.png)
 
-### Requesting some test ETH for your new MetaMask wallet
+## Requesting some test ETH for your new MetaMask wallet
 
 Go to [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/)
 
@@ -79,7 +79,7 @@ You now have 368 FI-Popular-Vote Tokens!
 
 ## Adding a custom token to your MetaMask Wallet
 
-Click the Add Token button in Metamask.
+Click the Add Token button in MetaMask.
 
 ![](https://lh6.googleusercontent.com/cwPsh9LcK3EfhabgMYYDHESzuZWglKtZ8I848xbgihz41urnPjNJHtVfx60WmUvQEVOKbG0HFGyr4EAaSIcF3BQj1eEJ-8apxo013PwRDjFVMAFhJJW9MTG0BYUEWheXzAXOV0OM)
 
