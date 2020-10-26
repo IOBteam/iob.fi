@@ -13,6 +13,7 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Hurdle rate | 12% |
 | Contribution | ETH and/or DAI |
 | Assets traded | Cryptos, stock indices, and commodity futures synthetics |
+| Starting NAV | $1.00 |
 |  |  |
 | **Current investor pool**  | **Defy Fund Pool \#1** |
 | Pool token | DEFY-1 |
