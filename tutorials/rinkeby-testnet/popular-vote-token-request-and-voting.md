@@ -77,7 +77,27 @@ Confirm the transaction
 
 You now have 368 FI-Popular-Vote Tokens!
 
-## Adding custom token to your MetaMask Wallet
+## Adding a custom token to your MetaMask Wallet
+
+Click the Add Token button in Metamask.
+
+![](https://lh6.googleusercontent.com/cwPsh9LcK3EfhabgMYYDHESzuZWglKtZ8I848xbgihz41urnPjNJHtVfx60WmUvQEVOKbG0HFGyr4EAaSIcF3BQj1eEJ-8apxo013PwRDjFVMAFhJJW9MTG0BYUEWheXzAXOV0OM)
+
+Click Custom Token
+
+![](https://lh6.googleusercontent.com/WWK5CwocNzy2xAC3-1OLoKUZIMjwZLUXeXyzqw8sCAPztwuDNJj2xxKvfWxaIMFY_TLetOHCRLaFKqPf6BGPIhGJUa-5ZjmHG3GPgVncl4Givk1uI122oHvoSj1S8i0MD4MAIpD6)
+
+Enter the FI Popular Vote token address and click Edit
+
+![](https://lh4.googleusercontent.com/nbVGCaFzXp960z4keZtBN1vjyFpKjeP-cGWz3r6VQA_TD7QqUgRpvT9yn6QJrDaYrKf2-xmI36L52hqmC49e6q4VhWZXb_UfZ0t_sBscvaZ_jObhsRlL4GsvuIMBS2Zm7KgwyaJ8)
+
+Change the name to FI-Popular and click Next
+
+Finally, click Add Tokens
+
+
+
+\*\*\*\*
 
 
 
