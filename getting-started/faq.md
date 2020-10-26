@@ -236,17 +236,17 @@ FI aligns incentives in the iob.fi DAO for value creation and economic growth. B
 
 Up to 12% of tokens are intended to be mostly distributed to iob.fi fund investors in the coming years.
 
-| Token distribution | % | Vesting |
-| :--- | :--- | :--- |
-| IOB holders | 48.50% | Conversions subject to DAO voting approval |
-| Core contributors | 25.00% | Must be vested and subject to DAO voting approval |
-| Prodefy Ecosystem | 5.00% | Subject to DAO voting approval |
-| Private sale 1 | 2.00% | Must be vested and subject to DAO voting approval |
-| Airdrop sweepstakes | 1.00% | Subject to DAO voting approval |
-| Private sale 2 | 3.00% | Must be vested and subject to DAO voting approval |
-| Staking rewards | 12.00% | Subject to DAO voting approval |
-| Reserve | 3.50% | N/A |
-| Total | 100.00% |  |
+| Token distribution | % |  | Vesting |
+| :--- | :--- | :--- | :--- |
+| IOB holders | 48.50% | 4,834.48 | Conversions subject to DAO voting approval |
+| Core contributors | 25.00% | 2,492.00 | Must be vested and subject to DAO voting approval |
+| Prodefy Ecosystem | 5.00% | 498.40 | Subject to DAO voting approval |
+| Private sale 1 | 2.00% | 199.36 | Must be vested and subject to DAO voting approval |
+| Airdrop sweepstakes | 1.00% | 99.68 | Subject to DAO voting approval |
+| IEO/CEX listing | 5.00% | 498.40 | DAO voting approval |
+| Staking rewards | 12.00% | 1,196.16 | Subject to DAO voting approval |
+| Reserve | 1.50% | 149.52 | N/A |
+| Total | 100.00% | 9,968.00 |  |
 
 ### Do I get any additional benefits for holding FI over the long term?
 
