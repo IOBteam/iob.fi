@@ -77,6 +77,10 @@ Confirm the transaction
 
 You now have 368 FI-Popular-Vote Tokens!
 
+## Adding custom token to your MetaMask Wallet
+
+
+
 ## Voting on the Rinkeby DAO
 
 Go to [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.client.aragon.org/#/fipopularvote/)
