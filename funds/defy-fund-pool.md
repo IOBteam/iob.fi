@@ -22,7 +22,7 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Staking | 12 months |
 | Total cap | 2,800 ETH |
 | Minimum investment/staking | 0.25 ETH |
-| Staking APY | 38% FI token reward |
+| Staking APY | 28% FI token reward |
 | Staking payout | 31 December 2021 |
 | Staking credit | Pro rata |
 | Early redemption | 1% redemption fee and staking Reward forfeiture |
