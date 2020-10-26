@@ -11,6 +11,10 @@
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq.md)
 
+## Funds
+
+* [Defy Fund Pool](funds/defy-fund-pool.md)
+
 ## DAO
 
 * [iob.fi DAOs](dao/iob.fi-daos.md)
