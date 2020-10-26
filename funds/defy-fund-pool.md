@@ -2,9 +2,8 @@
 
 iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. Defy will invest in derivatives of non-correlated asset classes including cryptocurrencies, commodities, and stock futures. The objective of the Defy Fund is low-risk, stable growth with a targeted annual return in the low double digits.
 
-|  |  |
+| **Fund pool name** | **iob Defy Fund** |
 | :--- | :--- |
-| Fund pool name | iob Defy Fund |
 | Fund pool smart contracts | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
 | Network | Ethereum Mainnet |
 | Investment objective | Stable growth |
@@ -15,7 +14,7 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Contribution | ETH and/or DAI |
 | Assets traded | Cryptos, stock indices, and commodity futures synthetics |
 |  |  |
-| Current investor pool  | Defy Fund Pool \#1 |
+| **Current investor pool**  | **Defy Fund Pool \#1** |
 | Pool token | DEFY-1 |
 | Token address | [0x7aF3B2B4093bd52309fE374C5FD05E215762c20C](https://etherscan.io/address/0x7af3b2b4093bd52309fe374c5fd05e215762c20c) |
 | Contribution cutoff | 31 December 2020 |
@@ -26,7 +25,7 @@ iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. D
 | Early redemption | 1% redemption fee and staking Reward forfeiture |
 | Redemption at or after payout date | 0% redemption fee + Staking reward pro rata |
 |  |  |
-| Next investor pool  | Defy Fund Pool \#2 |
+| **Next investor pool**  | **Defy Fund Pool \#2** |
 | Pool token  | DEFY-2 |
 | Contribution cutoff | 31 March 2021 |
 | Staking | 12 months |
