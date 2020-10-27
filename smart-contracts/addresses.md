@@ -7,7 +7,7 @@
 | Contracts | URL |
 | :--- | :--- |
 | iob.fi DAO | [https://client.aragon.org/\#/iob/](https://client.aragon.org/#/iob/) |
-| iob Defy Fund Pool | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
+| iob Defy Hedged Pool | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
@@ -52,7 +52,7 @@
 {% tab title="Rinkeby" %}
 | Tokens | Address |  |
 | :--- | :--- | :--- |
-| Defy Fund DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) | Testnet |
+| Defy Hedged Pool DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) | Testnet |
 | DEFY | [0xba05b409d00050a655fe7441405717eec2c9a573](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573) | Testnet token |
 {% endtab %}
 {% endtabs %}
