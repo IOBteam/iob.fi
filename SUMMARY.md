@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Managed DeFi Hedged pools](README.md)
+* [Managed DeFi Hedged Pools](README.md)
 
 ## getting started
 

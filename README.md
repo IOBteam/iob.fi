@@ -1,4 +1,4 @@
-# Managed DeFi Hedged pools
+# Managed DeFi Hedged Pools
 
 {% hint style="danger" %}
 _Documents here are currently draft versions._ 
