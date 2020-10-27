@@ -1,6 +1,6 @@
 # Table of contents
 
-* [iob.fi - Managed DeFi Funds](README.md)
+* [Managed DeFi Hedged pools](README.md)
 
 ## getting started
 
@@ -13,7 +13,7 @@
 
 ## Funds
 
-* [Defy Fund Pool](funds/defy-fund-pool.md)
+* [Defy Hedged Pool](funds/defy-fund-pool.md)
 
 ## DAO
 

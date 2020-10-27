@@ -1,4 +1,4 @@
-# iob.fi - Managed DeFi Funds
+# Managed DeFi Hedged pools
 
 {% hint style="danger" %}
 _Documents here are currently draft versions._ 
@@ -6,7 +6,7 @@ _Documents here are currently draft versions._
 _More docs are being prepared and will be added continuously. Information contained here may be incomplete, inaccurate, or out of date. Built by a global community, we encourage community members to help edit on GitHub._
 {% endhint %}
 
-iob.fi DAO is a DAO-governed, non-custodial, and on-chain DeFi **hedge fund manager**. iob.fi enables both **retail investors** and **institutional traders** the opportunity to invest in _all asset classes_ including cryptos, stocks, commodities, and indices in one place with just a **Web3 wallet** _without border or fiat currency restriction_. 
+iob.fi DAO is a DAO-governed, non-custodial, and on-chain DeFi **hedged pool manager**. iob.fi enables both **retail investors** and **institutional traders** the opportunity to invest in _all asset classes_ including cryptos, stocks, commodities, and indices in one place with just a **Web3 wallet** _without border or fiat currency restriction_. 
 
 The project was launched as iob.vc in November 2017 and was rebranded as iob.fi DAO in October 2020. iob.fi DAO's Web3 layer enables institutional trading systems to connect to DeFi platforms through smart-contract-native interactions, solving some of the incompatibility issues between high-frequency trading \(HFT\) and cryptocurrency on-chain trading.
 
