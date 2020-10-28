@@ -2,6 +2,8 @@
 
 iob Defy Hedged Pool is the first tokenized, actively managed DeFi hedged pool in the world. Defy will invest in derivatives of non-correlated asset classes including cryptocurrencies, commodities, and stock futures. The objective of the Defy Hedged Pool is low-risk, stable growth with a targeted annual return in the low double digits.
 
+Based on an Aragon DAO, Defy Hedged Pool is the first professionally-managed hedged pool that operates entirely on the blockchain. Besides enabling accounting, auditing, and account management on-chain, Defy is powered by a smart-contract-native trading system that directly interacts with Uniswap, Synthetix and Balancer. The pool’s assets are safely kept in its own smart contracts and in some cases, trades are executed with 0 slippage.
+
 | **Fund pool name** | **iob** Defy Hedged Pool |
 | :--- | :--- |
 | Fund pool smart contracts | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
