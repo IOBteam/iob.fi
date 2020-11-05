@@ -126,7 +126,7 @@ No longer relying on centralized exchanges for order execution, Quasar Fund will
 
 iob Defy Fund is the first tokenized, actively managed DeFi fund in the world. Defy will invest in derivatives of non-correlated asset classes including cryptocurrencies, commodities, and stock futures.
 
-The objective of the Defy Fund is low-risk, stable growth with targeted annual return in the low double digits.  
+The objective of the Defy Fund is low-risk, stable growth with a targeted annual return in the low double digits.  
 
 ### What is DEFY token?
 
