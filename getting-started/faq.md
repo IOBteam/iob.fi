@@ -100,7 +100,7 @@ There is no one single "best strategy." Each very bullish, bullish, choppy, bear
 
 ### What is ioBots?
 
-ioBots is a trading system. It is a collection of trading tools developed by IOB LLC in-house and is continuously being improved by the core dev team at iob.fi DAO. Besides generating Buy or Sell signals, ioBots trading system tries to address trading as a system of interoperable components consist of the price feeds, trading strategy interpretation, decision engine, risk control engine, order engine based on smart contract interactions with other DeFi platforms, and the ongoing risk monitoring.  
+ioBots is a trading system. It is a collection of trading tools developed by IOB LLC in-house and is continuously being improved by the core development team at iob.fi DAO. Besides generating Buy or Sell signals, ioBots trading system tries to address trading as a system of interoperable components consist of the price feeds, trading strategy interpretation, decision engine, risk control engine, order engine based on smart contract interactions with other DeFi platforms, and the ongoing risk monitoring.  
 
 In its simplest form, the ioBots can be expressed as: 
 
