@@ -9,16 +9,20 @@
   * [Privacy Statement](getting-started/legal-notice-and-disclaimer/privacy-statement.md)
   * [Corporate GDPR Statement](getting-started/legal-notice-and-disclaimer/corporate-gdpr-statement.md)
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
-* [FAQ](getting-started/faq.md)
+* [FAQ](getting-started/faq/README.md)
+  * [Hedged pool products for retail investors](getting-started/faq/hedged-pool-products-for-retail-investors.md)
+  * [Solutions for institutional investors](getting-started/faq/solutions-for-institutional-investors.md)
+  * [DeFi](getting-started/faq/defi.md)
+  * [Tokens](getting-started/faq/tokens.md)
+  * [DAOs](getting-started/faq/dao-faq.md)
 
-## Funds
+## Hedged Pools <a id="pools"></a>
 
-* [Defy Hedged Pool](funds/defy-fund-pool.md)
+* [Defy Hedged Pool](pools/defy-fund-pool.md)
 
-## DAO
+## DAOs <a id="dao"></a>
 
 * [iob.fi DAOs](dao/iob.fi-daos.md)
-* [DAO FAQ](dao/dao-faq.md)
 
 ## Smart Contracts
 

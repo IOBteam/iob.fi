@@ -1,6 +1,6 @@
 # On diversification and risk control
 
-iob.fi hedged pools give retail investors exposure to cryptos, forex, commodity futures, and stocks.
+iob.fi DAO hedged pools give retail investors exposure to cryptos, forex, commodity futures, and stocks.
 
 ## Why we diversify?
 

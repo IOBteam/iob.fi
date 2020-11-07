@@ -1,4 +1,4 @@
-# DAO FAQ
+# DAOs
 
 ### What is the iob.fi DAO management team?
 
