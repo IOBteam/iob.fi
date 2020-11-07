@@ -100,13 +100,23 @@ There is no one single "best strategy." Each very bullish, bullish, choppy, bear
 
 ### What is ioBots?
 
-ioBots is a trading system. It is a collection of trading tools developed by IOB LLC in-house and is continuously being improved by the core dev team at iob.fi DAO. Besides generating Buy or Sell signals, ioBots trading system tries to address trading as a system of interoperable components consist of the price feeds, trading strategy interpretation, decision engine, risk engine, order server, and the ongoing risk monitoring.  
+ioBots is a trading system. It is a collection of trading tools developed by IOB LLC in-house and is continuously being improved by the core dev team at iob.fi DAO. Besides generating Buy or Sell signals, ioBots trading system tries to address trading as a system of interoperable components consist of the price feeds, trading strategy interpretation, decision engine, risk control engine, order engine based on smart contract interactions with other DeFi platforms, and the ongoing risk monitoring.  
 
 In its simplest form, the ioBots can be expressed as: 
 
 $$
 ioBots=\frac{algo.decision.engine+smart.contract.order.engine}{risk.control.engine}
 $$
+
+### What is a trading system?
+
+A buying or selling signal is not a trading system. A strategy is not a trading system either. A well designed working trading system needs to have the following components: 
+
+1. Clearly set objectives: All trading starts with a clear objective that will not change during the entire trading process;
+2. Mechanism that seeks the consistency: The key to consistency is to keep what we have earned;
+3. Market Types determination: ioBots identifies which of the 5 Market Types -- Very Bullish, Bullish, Choppy, Bearish, or Very Bearish -- is underway every day for each market we are trading through a proprietary algorithm;
+4. Different strategies for different Market Types: There is no one single "best strategy." Each very bullish, bullish, choppy, bearish, or very bearish market type calls for a different trading strategy for that market on that trading day;
+5. Pre-determined risk level: Knowing how much to lose before every order entry.
 
 ### What are ioBots [trading signals](https://iob.fund/signals/)?
 
