@@ -105,7 +105,7 @@ ioBots is a trading system. It is a collection of trading tools developed by IOB
 In its simplest form, the ioBots can be expressed as: 
 
 $$
-ioBots=\frac{decision.engine.algos+order.engine.smart.contracts}{risk.control.engine}
+ioBots=\frac{DecisionAlgos+SmartContractOrderEngine}{RiskControlAlgos}
 $$
 
 ### What is a trading system?
