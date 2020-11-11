@@ -10,15 +10,16 @@
   * [Corporate GDPR Statement](getting-started/legal-notice-and-disclaimer/corporate-gdpr-statement.md)
 * [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
 * [FAQ](getting-started/faq/README.md)
-  * [Hedged pool products for retail investors](getting-started/faq/hedged-pool-products-for-retail-investors.md)
+  * [ioBots](getting-started/faq/iobots.md)
+  * [Hedged pools for retails investors](getting-started/faq/hedged-pool-products-for-retail-investors.md)
   * [Solutions for institutional investors](getting-started/faq/solutions-for-institutional-investors.md)
   * [DeFi](getting-started/faq/defi.md)
   * [Tokens](getting-started/faq/tokens.md)
   * [DAOs](getting-started/faq/dao-faq.md)
 
-## Hedged Pools <a id="pools"></a>
+## Products
 
-* [Defy Hedged Pool](pools/defy-fund-pool.md)
+* [Defy Hedged Pool](products/defy-fund-pool.md)
 
 ## DAOs <a id="dao"></a>
 
