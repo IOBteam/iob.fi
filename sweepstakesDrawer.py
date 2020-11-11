@@ -65,6 +65,8 @@ for a in addy:
         break
     else:
         winner = addy[random.randint(0, len(addy) - count)]
+        if winner in winnersAddy:
+            continue
         if count == 1:
             print('--- First Place ---')
             print(f'1. {winner}')
@@ -111,6 +113,8 @@ for a in addy:
         break
     else:
         winner = addy[random.randint(0, len(addy) - count)]
+        if winner in winnersAddy:
+            continue
         if count == 1:
             print('--- First Place ---')
             print(f'1. {winner}')
