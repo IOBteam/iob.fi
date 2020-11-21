@@ -20,7 +20,7 @@
 ## Products
 
 * [Defy Hedged Pool](products/defy-fund-pool.md)
-* [How to buy DEFY-1](products/how-to-buy-defy-1.md)
+* [How to invest in Defy by buying DEFY token](products/how-to-buy-defy-1.md)
 
 ## DAOs <a id="dao"></a>
 

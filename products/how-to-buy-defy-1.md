@@ -1,4 +1,4 @@
-# How to buy DEFY-1
+# How to invest in Defy by buying DEFY token
 
 ## **Open** [**iob.fi**](https://iob.fi) **homepage**
 
