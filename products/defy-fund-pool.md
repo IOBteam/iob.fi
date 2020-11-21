@@ -29,7 +29,7 @@ Based on an Aragon DAO, Defy Hedged Pool is a professionally-managed hedged pool
 | Staking credit | Pro rata |
 | Early redemption | 1% redemption fee and staking Reward forfeiture |
 | Redemption at or after payout date | 0% redemption fee + Staking reward pro rata |
-| Token/share transferrable?  | Yes |
+| Token/share transferable?  | Yes |
 |  |  |
 | **Next investor pool**  | Defy Hedged Pool **\#2** |
 | Pool token  | DEFY-2 |
@@ -37,4 +37,6 @@ Based on an Aragon DAO, Defy Hedged Pool is a professionally-managed hedged pool
 | Staking | 12 months |
 | Total cap | 5,000 ETH |
 | Staking APY | 18% FI token reward |
+
+
 
