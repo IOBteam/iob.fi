@@ -32,6 +32,7 @@
 
 ## Tutorials
 
+* [How to buy DEFY-1](tutorials/how-to-buy-defy-1.md)
 * [Rinkeby Testnet](tutorials/rinkeby-testnet/README.md)
   * [Popular Vote Token Request and Voting](tutorials/rinkeby-testnet/popular-vote-token-request-and-voting.md)
 
