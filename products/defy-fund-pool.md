@@ -38,5 +38,7 @@ Based on an Aragon DAO, Defy Hedged Pool is a professionally-managed hedged pool
 | Total cap | 5,000 ETH |
 | Staking APY | 18% FI token reward |
 
+A video tutorial can be found here:
 
+[https://www.youtube.com/watch?v=ZEl5RcapLz8](https://www.youtube.com/watch?v=ZEl5RcapLz8)
 
