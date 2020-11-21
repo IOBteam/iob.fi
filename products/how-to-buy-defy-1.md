@@ -6,15 +6,15 @@ Step 1: Find button "Buy DEFY & Stake Now" and click.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-Step 2: In the new window “New Request”， click “Connect Wallet”. \(If you already connected the wallet, skip to Step 4.\)
+Step 2: In the new window “New Request”, click “Connect Wallet”. \(If you already connected the wallet, skip to Step 4.\)
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-Step 3： In “Use Account From” window，select a wallet（currently “MetaMask”，more selection under development）
+Step 3： In “Use Account From” window，select a wallet \(currently “MetaMask,” and more selection under development\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-Step 4：After successful connect to wallet, you will find your wallet address in the upper right corner. Then you can back to “New Request” window and input amount of ETH \( or DAI \) or amount of DEFY-1. You can also leave a note in “Reference” field. After that, click “Create Request” button.
+Step 4：After successful connect to wallet, you will find your wallet address in the upper right corner. Then you can back to “New Request” window and input amount of ETH \(or DAI\) or amount of DEFY-1. You can also leave a note in “Reference” field. After that, click “Create Request” button.
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
