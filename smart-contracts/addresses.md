@@ -29,6 +29,7 @@
 | FI | [0xf03d05ed4cf4e723c04500ab64281bfa591968f2](https://etherscan.io/token/0xf03d05ed4cf4e723c04500ab64281bfa591968f2) | [Uniswap](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
 | DEFY-1 | [0x7aF3B2B4093bd52309fE374C5FD05E215762c20C](https://etherscan.io/address/0x7af3b2b4093bd52309fe374c5fd05e215762c20c) | Pool token |
 | ioBots Quasar | [0x739F41C699276C9b6182AECb9d5F4eCa226dA8DD](https://etherscan.io/address/0x739f41c699276c9b6182aecb9d5f4eca226da8dd) | Pool token |
+| FI-AD-1 | [0xcbf727efa8da3cc405fdb6fe212325518f2c6933](https://etherscan.io/token/0xcbf727efa8da3cc405fdb6fe212325518f2c6933) | FI Airdrop 1 |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
