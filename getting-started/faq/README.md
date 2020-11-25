@@ -16,7 +16,7 @@ Unable to find a Web3 solution in order to interact with the various DeFi platfo
 
 iob.fi seeks consistent capital appreciation. With over 20 years in managing various types of funds totaling billions of dollars, iob.fi founding members have developed a cryptocurrency trading system called ioBots. ioBots is a set of rule-based algorithmic trading strategies, order, risk, and asset management tools.
 
-In the past 12 months, ioBots has demonstrated above-average returns in real-time, real-money trading while being constantly developed. Changes were made daily sometimes. The ioBots-generated trading signals have been tracked in real-time on [iob.fund](https://iob.fund). If the signals automatically invested with $10,000 each time, the model portfolio would have made over 150% in the first 12-month period. ioBots has added new markets continuously and gradually. The original 6 starting markets \(crypto pairs\) have demonstrated gains ranging from 183.9% to 597.35% for the first 12 months.
+In the past 12 months, ioBots has demonstrated above-average returns in real-time, real-money trading while being constantly developed. Changes were made daily sometimes. The ioBots-generated trading signals have been tracked in real-time on [iobots.pro](https://iobots.pro). If the signals automatically invested with $10,000 each time, the model portfolio would have made over 150% in the first 12-month period. ioBots has added new markets continuously and gradually. The original 6 starting markets \(crypto pairs\) have demonstrated gains ranging from 183.9% to 597.35% for the first 12 months.
 
 ### **Who is behind iob.fi DAO?**
 
@@ -30,7 +30,7 @@ Having started his financial career in 1996, Yale worked in mutual funds, ventur
 
 An unexpected event in 2015 propelled Yale to look into the fledgling decentralized currencies called Bitcoin and Ether. Having spent millions building a proprietary ‘black box’ algorithmic trading hardware and software system co-located in Shanghai Futures Exchange \(SHFE\) datacenter, the firm’s good time in being one of the biggest stock index futures HFT traders in China came to an abrupt halt when the local government banned HFT index futures trading and limited all order size to 1 contract. Being aware of the danger posed by any centralized authorities led him to make his first purchases of BTC at $430 and ETH at $8. 
 
-Yale is the fund manager of [Quasar Fund](https://iob.fund/), chief architect of ioBots trading algorithms, and a firm believer in decentralized finance \(DeFi\). 
+Yale is the fund manager of [Quasar Fund](https://iobots.pro), chief architect of ioBots trading algorithms, and a firm believer in decentralized finance \(DeFi\). 
 
 [LinkedIn](https://www.linkedin.com/in/reisoleil/)
 

@@ -12,7 +12,7 @@ IOB LLC used the Quasar Fund to develop a brand-new trading system from the grou
 
 ### Why are the results of the signals better than that of Quasar Fund?
 
-The Trading Signals and Quasar Fund have totally different objectives. Each "trading position" in the model portfolio is always [fully invested with $10,000](https://iob.fund/signals/portfolio), regardless of the risk level of the signal. This results in potentially big profits with larger per-position losses. The Model Portfolio represents an "Aggressive Growth" fund trading objective. On the other hand, the "Total Return" trading portfolio may have a higher risk tolerance with an even higher expected return than the model portfolio, but investors must be prepared for a roller-coaster ride.
+The Trading Signals and Quasar Fund have totally different objectives. Each "trading position" in the model portfolio is always [fully invested with $10,000](https://iobots.pro/signals/portfolio), regardless of the risk level of the signal. This results in potentially big profits with larger per-position losses. The Model Portfolio represents an "Aggressive Growth" fund trading objective. On the other hand, the "Total Return" trading portfolio may have a higher risk tolerance with an even higher expected return than the model portfolio, but investors must be prepared for a roller-coaster ride.
 
 No longer relying on centralized exchanges for order execution, Quasar Fund will be migrated to one of our DeFi funds in the near future.
 

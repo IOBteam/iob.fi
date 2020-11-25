@@ -10,5 +10,5 @@ The products described in this material involve substantial risk and this materi
 
 ## NOT verified
 
-The information provided on [iob.fi](https://iob.fi), [iob.fund](https://iob.fund), and other iob affiliate websites has not been verified and we make no representation or warranty as to its accuracy, completeness, or correctness. This information reflects the information available as of the date of this material and is subject to change at any time without notice. iob.fi DAO, Defy Hedged Pool DAO, and IOB LLC will not be liable whatsoever for any direct or consequential loss arising from the use of this material or its contents.
+The information provided on [iob.fi](https://iob.fi), [iobots.pro](https://iobots.pro), and other iob affiliate websites has not been verified and we make no representation or warranty as to its accuracy, completeness, or correctness. This information reflects the information available as of the date of this material and is subject to change at any time without notice. iob.fi DAO, Defy Hedged Pool DAO, and IOB LLC will not be liable whatsoever for any direct or consequential loss arising from the use of this material or its contents.
 
