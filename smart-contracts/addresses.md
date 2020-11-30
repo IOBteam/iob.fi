@@ -8,7 +8,7 @@
 | :--- | :--- |
 | iob.fi DAO | [https://client.aragon.org/\#/iob/](https://client.aragon.org/#/iob/) |
 | iob Defy Hedged Pool | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
-| ioBots Quasar on dEDGE | [https://bit.ly/3736eaZ](https://bit.ly/3736eaZ) |
+| ioBots Quasar on dHEDGE | [https://bit.ly/3736eaZ](https://bit.ly/3736eaZ) |
 {% endtab %}
 
 {% tab title="Popular Voting on Rinkeby" %}
@@ -46,17 +46,6 @@
 | Contracts | Address |
 | :--- | :--- |
 | Uniswap ETH-FI pool | [0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30](https://info.uniswap.org/pair/0x3201ed3ca1057bd6d595fe87dc1fbcb9cdfaad30) |
-{% endtab %}
-{% endtabs %}
-
-## For testing
-
-{% tabs %}
-{% tab title="Rinkeby" %}
-| Tokens | Address |  |
-| :--- | :--- | :--- |
-| Defy Hedged Pool DAO | [https://rinkeby.client.aragon.org/\#/defy/](https://rinkeby.client.aragon.org/#/defy/) | Testnet |
-| DEFY | [0xba05b409d00050a655fe7441405717eec2c9a573](https://rinkeby.etherscan.io/token/0xba05b409d00050a655fe7441405717eec2c9a573) | Testnet token |
 {% endtab %}
 {% endtabs %}
 
