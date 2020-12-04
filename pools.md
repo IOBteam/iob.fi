@@ -1,4 +1,4 @@
-# Funds
+# Pools
 
 ## FOR RETAIL INVESTORS
 
@@ -6,7 +6,7 @@
 
 ## DAO-MANAGED SMART CONTRACT
 
-## Defy Fund
+## Hedged Pool
 
 ##### Smart contract as a hedge fund
 
@@ -14,7 +14,7 @@ Created and managed by a separate DAO. Assets are held by the DAO smart contract
 
 ##### FI token staking reward
 
-Defy fund investors receive iob.fi governance token, FI, on a regular distribution schedule.
+Hedged pool investors receive iob.fi governance token, FI, on a regular distribution schedule.
 
 ##### Trading cryptos and synthetic derivatives
 
@@ -26,7 +26,7 @@ DEFY
 
 Token Contract address:
 
-0xba05b409d00050a655fe7441405717eec2c9a573
+0x7af3b2b4093bd52309fe374c5fd05e215762c20c
 
 iob Defy is a one of the first DeFi actively managed fund pools on DEXes. The DEFY token is a "product token" of the Defy fund. Its transparency is governed by a DAO.
 
