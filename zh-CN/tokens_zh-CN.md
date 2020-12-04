@@ -50,7 +50,7 @@ IOB tokens can be converted into FI according to a Token Conversion Plan approve
 
 IOB token holders receive a higher dividend and reward payout rate than FI tokenholders. Converted IOB tokens are considered Redeemed and burnt.
 
-###### IN A NUTSHELL
+###### 简而言之
 
 # By holding FI and IOB you can benefit from any potential increase in the value of the iob.fi and its related products and services.
 
