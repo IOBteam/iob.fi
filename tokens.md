@@ -2,7 +2,7 @@
 
 ## FI & IOB
 
-## FI is planned to be listed on Uniswap and other exchanges
+## Our tokens fulfill different functional, transactional, and financial functions.
 
 ## GOVERNANCE TOKEN
 
@@ -26,7 +26,7 @@ iob.fi fund investors receive staking reward with FI token.
 
 ## TOKEN ROADMAP
 
-Listing xxx on Uniswap for an initial market cap of $18.14 mm
+Initial Uniswap listing with a starting market cap of $19.10 mm on October 14 2020
 
 1st IOB to FI swap for xxx IOB token allotment
 
@@ -54,4 +54,4 @@ IOB token holders receive a higher dividend and reward payout rate than FI token
 
 # By holding FI and IOB you can benefit from any potential increase in the value of the iob.fi and its related products and services.
 
-Digital assets can be volatile and risky. The price of FI denominated across various pairs will vary and you could end up losing a significant amount of funds.
+Digital assets can be volatile and risky. The price of FI denominated across various pairs will vary and you could end up losing a significant amount of pools. 
