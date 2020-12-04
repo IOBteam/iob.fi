@@ -4,17 +4,17 @@
 
 ## Coordinating a global set of participants around a common mission
 
-## WHAT IS iob.fi DAO
+## iob.fi DAO 是什么
 
 ##### DAO
 
-Decentralized Autonomous Organization.
+去中心化自治组织
 
 ##### Power to the people
 
 Through the DAO, iob.fi clients, developers, fund investors and tokenholders are in control of the policies, new features and organizational governance.
 
-##### Propose and vote
+##### 提议并投票
 
 The community will propose and vote on policy updates, new-technology-implemented organizational changes, new fund structure, new product features, collaborative partnerships and whatever the community deems relevant.
 
@@ -26,32 +26,32 @@ Voting takes place on the iob.fi's governance interface powered by Aragon
 
 # Popular Vote
 
-## A HYBRID VOTING SYSTEM
+## 混合投票系统
 
 We are proposing a novel approach to help solve some of the problems.
 
-##### True democracy
+##### 真正的民主
 
 Not only for the rich. Anyone can vote for free
 
-##### Earning FI through voting
+##### 通过投票赚取 FI
 
 Each successful vote on our DAOs is rewarded with FI token reward, paid out periodically.
 
-##### Your free vote counts!
+##### 您的免费投票很重要！
 
 Your testnet vote result is delegated to a representative (an elector) on the Mainnet DAO to be cast on the proposal with a certain proportion of the total voting power.
 
-## BUILD WITH US
+## 与我们共建
 
 Together, we make decisions as a group, reward individuals for their contributions, and share in the common benefit.
 
-## SHARE THE SUCCESS
+## 分享成功
 
 We are passionate about the value we are creating for the future of finance by bridging the institutional firms to the DeFi. There is a void between the established and the new.
 
 The financial rewards for this innovation will be shared by all our community members and contributors.
 
-###### IN A NUTSHELL
+###### 简而言之
 
-# iob.fi is a community where everyone shares in the common benefit and participates in group decision making.
+# iob.fi 是每个人都享有共同利益并参与集体决策的社区。
