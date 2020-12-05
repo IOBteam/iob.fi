@@ -51,7 +51,7 @@ Congrats! You can now use MetaMask on Rinkeby.
 1. Go to [iob.fi DAO Popular Vote Token Request](https://rinkeby.client.aragon.org/#/fipopularvote/0x9e1110b76b469d020184da374ddb334c2fc5308f/) page. 
 2. Connect your MetaMask wallet.
 
-![](../../.gitbook/assets/8.png)
+![](../../.gitbook/assets/13.png)
 
 Make a new request for 368 FI-Popular-Vote Tokens.
 
@@ -101,7 +101,7 @@ Go to [https://rinkeby.client.aragon.org/\#/fipopularvote/](https://rinkeby.clie
 
 Connect your MetaMask
 
-![](../../.gitbook/assets/13.png)
+![](../../.gitbook/assets/13%20%281%29.png)
 
 Go to the Voting app.
 

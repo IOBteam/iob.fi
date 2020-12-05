@@ -4,7 +4,7 @@
 
 Step 1: Find button "Buy DEFY & Stake Now" and click.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 Step 2: In the new window “New Request”, click “Connect Wallet”. \(If you already connected the wallet, skip to Step 4.\)
 

@@ -6,7 +6,7 @@ Based on an Aragon DAO, Defy Hedged Pool is a professionally-managed hedged pool
 
 | **Fund pool name** | **iob** Defy Hedged Pool |
 | :--- | :--- |
-| Fund pool smart contracts | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
+| Hedged pool smart contracts | [https://client.aragon.org/\#/defy/](https://client.aragon.org/#/defy/) |
 | Network | Ethereum Mainnet |
 | Investment objective | Stable growth |
 | Investment strategies | Quantitative, both long and short |
