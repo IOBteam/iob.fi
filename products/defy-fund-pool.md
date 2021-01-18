@@ -20,7 +20,7 @@ Based on an Aragon DAO, Defy Hedged Pool is a professionally-managed hedged pool
 | **Current investor pool**  | Defy Fund Pool **\#1** |
 | Pool token | DEFY-1 |
 | Token address | [0x7aF3B2B4093bd52309fE374C5FD05E215762c20C](https://etherscan.io/address/0x7af3b2b4093bd52309fe374c5fd05e215762c20c) |
-| Contribution cutoff | 31 December 2020 |
+| Contribution cutoff | 31 March 2021 |
 | Staking | 12 months |
 | Total cap | 2,800 ETH |
 | Minimum investment/staking | 0.25 ETH |
@@ -33,7 +33,7 @@ Based on an Aragon DAO, Defy Hedged Pool is a professionally-managed hedged pool
 |  |  |
 | **Next investor pool**  | Defy Hedged Pool **\#2** |
 | Pool token  | DEFY-2 |
-| Contribution cutoff | 31 March 2021 |
+| Contribution cutoff | 30 June 2021 |
 | Staking | 12 months |
 | Total cap | 5,000 ETH |
 | Staking APY | 18% FI token reward |
