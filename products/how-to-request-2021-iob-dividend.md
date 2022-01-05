@@ -2,7 +2,7 @@
 
 ### **Open **<mark style="color:red;">****</mark> [<mark style="color:red;">**iob.fi**</mark>](https://iob.fi) **homepage**
 
-Step 1: Find the **banner** on the [iob.fi](https://iob.fi) homepage and click.&#x20;
+Step 1: Find the **banner** on the [iob.fi](https://iob.fi) homepage and click. (Click [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) to skip to step 2.)
 
 ![](../.gitbook/assets/WechatIMG3.png)
 
@@ -23,3 +23,5 @@ step 4:  **"Requested!"**&#x20;
 ![The distribution will be sent to all at once on the January 15th.](<../.gitbook/assets/1641367146742 (1).jpg>)
 
 <mark style="color:red;">Note： The distribution will be sent to all at once on the January 15th.</mark>
+
+### <mark style="color:red;">Request Now!</mark>
