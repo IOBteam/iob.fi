@@ -20,5 +20,6 @@ step 3:  Confirm my wallet address (0xb04......0076) is used to request for IOB 
 
 step 4:  **"Requested!"**&#x20;
 
-![](<../.gitbook/assets/1641367146742 (1).jpg>)
+![The distribution will be sent to all at once on the January 15th.](<../.gitbook/assets/1641367146742 (1).jpg>)
 
+<mark style="color:red;">Note： The distribution will be sent to all at once on the January 15th.</mark>
