@@ -21,8 +21,9 @@
 
 * [Defy Hedged Pool](products/defy-fund-pool.md)
 * [How to invest in Defy by buying DEFY token](products/how-to-buy-defy-1.md)
+* [How to request 2021 IOB Dividend?](products/how-to-request-2021-iob-dividend.md)
 
-## DAOs <a id="dao"></a>
+## DAOs <a href="#dao" id="dao"></a>
 
 * [iob.fi DAOs](dao/iob.fi-daos.md)
 
@@ -35,4 +36,3 @@
 
 * [Rinkeby Testnet](tutorials/rinkeby-testnet/README.md)
   * [Popular Vote Token Request and Voting](tutorials/rinkeby-testnet/popular-vote-token-request-and-voting.md)
-
