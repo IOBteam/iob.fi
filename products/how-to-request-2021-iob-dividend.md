@@ -18,7 +18,7 @@ step 3:  Confirm my wallet address (0xb04......0076) is used to request for IOB 
 
 ![](../.gitbook/assets/WX20220105-151322@2x.png)
 
-step 4:  **"Request!!"**&#x20;
+step 4:  **"Requested!"**&#x20;
 
 ![](<../.gitbook/assets/1641367146742 (1).jpg>)
 
