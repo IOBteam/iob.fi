@@ -14,9 +14,9 @@ In **“Connect Wallet”** window，select a wallet (currently **“MetaMask”
 
 ![](../.gitbook/assets/%E5%9B%BE%E7%89%87.png)
 
-step 3:  Confirm my wallet address (0xb04......0076) is used to request for IOB dividend. Click the **"Request"** button.
+step 3:  Confirm my wallet address (0x5b4......5b9e) is used to request for IOB dividend. Click the **"Request"** button.
 
-![](../.gitbook/assets/WX20220105-151322@2x.png)
+![](../.gitbook/assets/WX20220105-154325@2x.png)
 
 step 4:  **"Requested!"**&#x20;
 
