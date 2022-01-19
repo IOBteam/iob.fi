@@ -8,7 +8,7 @@ Step 2: Read your **USDC balance** on **** [**polygon Wallet**](https://wallet.p
 
 2.1 **** If you decide to keep USDC in the wallet on the Polygon network, do nothing.
 
-2.2 To **transfer from the wallet**, first swap **a little MATIC token (5-10 cents)** using your USDC you just received via their gas-less swap feature.
+2.2 To **transfer from the wallet**, first swap **a little MATIC token (5-10 cents)** using your USDC you just received via their [**gas-less swap**](https://wallet.polygon.technology/gas-swap) feature.
 
 ![](../.gitbook/assets/WechatIMG24.png)
 
