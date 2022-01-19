@@ -52,7 +52,11 @@ Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wal
 
 2.2 To transfer from the wallet, first swap a little MATIC token (5-10 cents) using your USDC you just received via their gas-less swap feature.
 
-2.2.1: If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following: crypto.com**, **OKEx** or **Binance**. **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it! If unsure, please ask in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
+2.2.1: If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following: crypto.com**, **OKEx** or **Binance**.&#x20;
+
+## **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it!**&#x20;
+
+**If unsure, please ask in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
 
 ### Step 3:
 
