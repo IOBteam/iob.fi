@@ -26,6 +26,7 @@
 
 * [iob.fi DAOs](dao/iob.fi-daos.md)
 * [How to request 2021 IOB Dividend?](dao/how-to-request-2021-iob-dividend.md)
+* [How to get USDC out of the Matic network?](dao/how-to-get-usdc-out-of-the-matic-network.md)
 
 ## Smart Contracts
 
