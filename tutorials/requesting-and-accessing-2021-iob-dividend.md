@@ -66,6 +66,6 @@ Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wal
 
 You can also **connect your wallet to Uniswap** through their Polygon layer to swap USDC to any coins you want.
 
-![](../.gitbook/assets/1642570646626.jpg)
+![](<../.gitbook/assets/截屏2022-01-19 下午4.17.00.png>)
 
 <mark style="color:red;">Remember, the USDC is in your wallet on the Polygon Network. You do not need to "get it out." It is already there, as long as you have the private key to your wallet.</mark>&#x20;
