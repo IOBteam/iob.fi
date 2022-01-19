@@ -34,6 +34,5 @@
 ## Tutorials
 
 * [Requesting and Accessing 2021 IOB Dividend](tutorials/requesting-and-accessing-2021-iob-dividend.md)
-* [How to get USDC out of the Matic network?](tutorials/how-to-get-usdc-out-of-the-matic-network.md)
 * [Rinkeby Testnet](tutorials/rinkeby-testnet/README.md)
   * [Popular Vote Token Request and Voting](tutorials/rinkeby-testnet/popular-vote-token-request-and-voting.md)

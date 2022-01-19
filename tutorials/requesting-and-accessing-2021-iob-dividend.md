@@ -8,6 +8,10 @@ On [iob.fi](https://iob.fi) homepage, click "2021 IOB Dividend" button. You can 
 
 ![](../.gitbook/assets/WechatIMG3.png)
 
+or
+
+![](<../.gitbook/assets/截屏2022-01-19 下午3.21.52.png>)
+
 ### Step 2:&#x20;
 
 Click the **"Connect Wallet"** button.
@@ -42,9 +46,9 @@ Add **** [**Polygon Network on MetaMask**](https://docs.polygon.technology/docs/
 
 ### Step 2:&#x20;
 
-Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wallet.polygon.technology)****
+Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wallet.polygon.technology)
 
-****
+![](<../.gitbook/assets/1 (1).png>)
 
 2.1 If you decide to keep USDC in the wallet on the Polygon network, do nothing.
 
@@ -52,16 +56,22 @@ Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wal
 
 2.2 To transfer from the wallet, first swap a little MATIC token (5-10 cents) using your USDC you just received via their gas-less swap feature.
 
+![](<../.gitbook/assets/2 (1).png>)
+
 2.2.1: If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following: crypto.com**, **OKEx** or **Binance**.&#x20;
+
+2.2.1 If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following: crypto.com**, **OKEx** or **Binance**. **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it! If unsure, please ask in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
 
 ## **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it!**&#x20;
 
-**If unsure, please ask in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
+**If unsure, please ask in our**&#x20;
+
+![](<../.gitbook/assets/截屏2022-01-19 下午1.27.12.png>)
 
 ### Step 3:
 
 You can also **connect your wallet to Uniswap** through their Polygon layer to swap USDC to any coins you want.
 
-
+![](../.gitbook/assets/1642570646626.jpg)
 
 <mark style="color:red;">Remember, the USDC is in your wallet on the Polygon Network. You do not need to "get it out." It is already there, as long as you have the private key to your wallet.</mark>&#x20;
