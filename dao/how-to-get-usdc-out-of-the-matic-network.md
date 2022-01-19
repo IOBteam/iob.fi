@@ -1,16 +1,8 @@
 # How to get USDC out of the Matic network?
 
-Step 1 ：where can I use the **Matic Web Wallet**?
+Step 1 : Add **** [**Polygon Network**](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)****
 
-{% embed url="https://wallet.polygon.technology" %}
-
-Step 2: Open your **Metamask wallet** and click on the network dropdown to expand as shown in figure
-
-![](../.gitbook/assets/wallet-faq-1.webp)
-
-Once the window expands you can select **Polygon Network** to switch.
-
-![](../.gitbook/assets/wallet-faq-2.webp)
+Step 2 : Connect to [**Matic (Polygon) on MetaMask**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon)****
 
 Step 3: Read your **USDC balance**
 
@@ -20,11 +12,11 @@ Step 3: Read your **USDC balance**
 
 3.2 To **transfer from the wallet**, first swap **a little MATIC token (5-10 cents)** using your USDC you just received via their gas-less swap feature.
 
-![](<../.gitbook/assets/截屏2022-01-19 下午1.27.12.png>)
+![](../.gitbook/assets/WechatIMG24.png)
 
 step 4: If you want to **transfer USDC to an exchange**, you can only sent via the Polygon network to **crypto.com**, **OKEx** or **Binance** etc. **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it!**
 
-![](../.gitbook/assets/WechatIMG19.png)
+![](<../.gitbook/assets/截屏2022-01-19 下午1.27.12.png>)
 
 step 5: You can also **connect your wallet to Uniswap** through their Polygon layer to swap USDC to any coins you want.
 
