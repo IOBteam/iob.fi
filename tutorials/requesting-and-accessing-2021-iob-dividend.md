@@ -34,7 +34,7 @@ Confirm my wallet address (0x5b4......5b9e) is used to request for IOB dividend.
 
 ![](<../.gitbook/assets/1641367146742 (1).jpg>)
 
-#### **Note: Once you have requested your dividend, your eligible dividend will be reset to "0"**
+#### **Note: Once you have requested your dividend, your eligible dividend will be reset to "0."**
 
 ## **2. Accessing Your Dividend on Polygon Network**
 
@@ -42,7 +42,9 @@ Confirm my wallet address (0x5b4......5b9e) is used to request for IOB dividend.
 
 Add **** [**Polygon Network on MetaMask**](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)****
 
-****
+****![](../.gitbook/assets/wallet-faq-1.webp)****
+
+****![](../.gitbook/assets/wallet-faq-2.webp)****
 
 ### Step 2:&#x20;
 
@@ -58,7 +60,11 @@ Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wal
 
 ![](<../.gitbook/assets/2 (1).png>)
 
-2.2.1 If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following: crypto.com**, **OKEx** or **Binance**. **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it! If unsure, please ask in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
+2.2.1 If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following 3 exchanges currently: crypto.com**, **OKEx** or **Binance**.&#x20;
+
+## **You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it!**&#x20;
+
+**If unsure, please ask in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
 
 ![](<../.gitbook/assets/截屏2022-01-19 下午1.27.12.png>)
 
