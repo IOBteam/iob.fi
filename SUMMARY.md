@@ -21,11 +21,11 @@
 
 * [Defy Hedged Pool](products/defy-fund-pool.md)
 * [How to invest in Defy by buying DEFY token](products/how-to-buy-defy-1.md)
-* [How to request 2021 IOB Dividend?](products/how-to-request-2021-iob-dividend.md)
 
 ## DAOs <a href="#dao" id="dao"></a>
 
 * [iob.fi DAOs](dao/iob.fi-daos.md)
+* [How to request 2021 IOB Dividend?](dao/how-to-request-2021-iob-dividend.md)
 
 ## Smart Contracts
 
