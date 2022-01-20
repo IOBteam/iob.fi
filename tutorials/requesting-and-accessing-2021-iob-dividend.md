@@ -76,4 +76,6 @@ You can also **connect your wallet to Uniswap** through their Polygon layer to s
 
 <mark style="color:red;">Remember, the USDC is in your wallet on the Polygon Network. You do not need to "get it out." It is already there, as long as you have the private key to your wallet.</mark>&#x20;
 
+## Conclusion
+
 ## <mark style="color:red;">Unless you must convert the dividend received into USD, EURO or any other fiat, there is really no reason to "get it out." The funds are in your wallet on the Polygon network, (almost same as on the Ethereum network,) and you can swap it into other coins for almost no fee.</mark>
