@@ -34,6 +34,6 @@
 ## Tutorials
 
 * [Requesting and Accessing 2021 IOB Dividend](tutorials/requesting-and-accessing-2021-iob-dividend.md)
-* [请求并访问 2021 IOB 股息](tutorials/qing-qiu-bing-fang-wen-2021-iob-gu-xi.md)
+* [请求并使用 2021 IOB 股息](tutorials/qing-qiu-bing-shi-yong-2021-iob-gu-xi.md)
 * [Rinkeby Testnet](tutorials/rinkeby-testnet/README.md)
   * [Popular Vote Token Request and Voting](tutorials/rinkeby-testnet/popular-vote-token-request-and-voting.md)
