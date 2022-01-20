@@ -6,11 +6,11 @@
 
 On [iob.fi](https://iob.fi) homepage, click "2021 IOB Dividend" button. You can also click on the banner shown below. (Click [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) to skip to step 2.)
 
-![](../.gitbook/assets/WechatIMG3.png)
+![](<../.gitbook/assets/截屏2022-01-19 下午3.21.52.png>)
 
 or
 
-![](<../.gitbook/assets/截屏2022-01-19 下午3.21.52.png>)
+![](../.gitbook/assets/WechatIMG3.png)
 
 ### Step 2:&#x20;
 
@@ -62,11 +62,11 @@ Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wal
 
 2.2.1 If you want to **transfer USDC to an** [**exchange**](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/#what-are-the-list-of-supported-exchanges-on-polygon), you can only sent via the Polygon network to **one of the following 3 exchanges currently: crypto.com**, **OKEx** or **Binance**.&#x20;
 
+![](<../.gitbook/assets/截屏2022-01-19 下午1.27.12.png>)
+
 ## <mark style="color:red;">**You will lose your USDC if you try to transfer them to any other exchange! Do NOT do it!**</mark>&#x20;
 
 **If unsure, please ask questions in our** [**Telegram**](https://t.me/+Swx7dK5JMJfBcXBm) **group first!**
-
-![](<../.gitbook/assets/截屏2022-01-19 下午1.27.12.png>)
 
 ### Step 3:
 
