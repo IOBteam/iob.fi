@@ -1,10 +1,10 @@
-# 请求并访问 2021 IOB 股息
+# 请求并使用 2021 IOB 股息
 
 ## 1. 请求
 
 ### 第1步:&#x20;
 
-在 [iob.fi](https://iob.fi) 首页, 点击 "2021 IOB 股息" 按钮. 您也可以单击下面显示的广告横幅。 (点击 [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) 跳转到第2步。)
+在 [iob.fi](https://iob.fi/) 首页, 点击 "2021 IOB 股息" 按钮. 您也可以单击下面显示的广告横幅。 (点击 [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) 跳转到第2步。)
 
 ![](<../.gitbook/assets/截屏2022-01-19 下午3.21.52.png>)
 
@@ -48,7 +48,7 @@
 
 ### 第2步:&#x20;
 
-在 **** [**Polygon 钱包**](https://wallet.polygon.technology) **** 查看并确认您的 **USDC余额**
+在 **** [**Polygon 钱包**](https://wallet.polygon.technology/) **** 查看并确认您的 **USDC余额**
 
 ![](<../.gitbook/assets/1 (1).png>)
 

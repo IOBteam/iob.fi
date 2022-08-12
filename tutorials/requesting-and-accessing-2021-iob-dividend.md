@@ -2,9 +2,15 @@
 
 ## 1. Requesting
 
-### Step 1:&#x20;
+### Step 1:
 
-On [iob.fi](https://iob.fi) homepage, click "2021 IOB Dividend" button. You can also click on the banner shown below. (Click [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) to skip to step 2.)
+On [iob.fi](https://iob.fi/) homepage, click "**MENU**" button and select the "**Managed Pools**" tab in the sidebar.
+
+![](../.gitbook/assets/image.png)
+
+### Step 2:&#x20;
+
+Click "**2021 IOB Dividend**" button. You can also click on the banner shown below. (Click [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) to skip to step 3.)
 
 ![](<../.gitbook/assets/截屏2022-01-19 下午3.21.52.png>)
 
@@ -12,7 +18,7 @@ or
 
 ![](../.gitbook/assets/WechatIMG3.png)
 
-### Step 2:&#x20;
+### Step 3:&#x20;
 
 Click the **"Connect Wallet"** button.
 
@@ -22,13 +28,13 @@ In **“Connect Wallet”** window，select a wallet (currently **“MetaMask”
 
 ![](../.gitbook/assets/%E5%9B%BE%E7%89%87.png)
 
-### Step 3: &#x20;
+### Step 4: &#x20;
 
 Confirm my wallet address (0x5b4......5b9e) is used to request for IOB dividend. Click the **"Request"** button.
 
 ![](../.gitbook/assets/WX20220105-154325@2x.png)
 
-### Step 4: &#x20;
+### Step 5: &#x20;
 
 **"Requested!"**&#x20;
 
@@ -48,7 +54,7 @@ Add **** [**Polygon Network on MetaMask**](https://docs.polygon.technology/docs/
 
 ### Step 2:&#x20;
 
-Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wallet.polygon.technology)
+Check and confirm your **USDC balance** on **** [**Polygon Wallet**](https://wallet.polygon.technology/)
 
 ![](<../.gitbook/assets/1 (1).png>)
 
