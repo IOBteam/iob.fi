@@ -6,7 +6,7 @@
 
 On [iob.fi](https://iob.fi/) homepage, click "**MENU**" button and select the "**Managed Pools**" tab in the sidebar.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ### Step 2:&#x20;
 

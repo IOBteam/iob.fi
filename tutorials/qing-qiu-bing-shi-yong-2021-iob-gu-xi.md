@@ -4,7 +4,13 @@
 
 ### 第1步:&#x20;
 
-在 [iob.fi](https://iob.fi/) 首页, 点击 "2021 IOB 股息" 按钮. 您也可以单击下面显示的广告横幅。 (点击 [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) 跳转到第2步。)
+在 [iob.fi](https://iob.fi/) 首页, 点击 "**菜单**" 按钮并在侧边栏选择 "**管理的基金池**" 标签。
+
+![](<../.gitbook/assets/image (9).png>)
+
+### 第2步:&#x20;
+
+点击 "**2021 IOB 股息**" 按钮，您也可以单击下面显示的广告横幅。 (点击 [https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38](https://iob.fi/dividend/0x6130ff302f24267380753e52ece48b852be3dd38) 跳转到第3步。)
 
 ![](<../.gitbook/assets/截屏2022-01-19 下午3.21.52.png>)
 
@@ -12,7 +18,7 @@
 
 ![](../.gitbook/assets/WechatIMG3.png)
 
-### 第2步:&#x20;
+### 第3步:&#x20;
 
 点击 **"连接钱包"** 按钮.
 
@@ -22,13 +28,13 @@
 
 ![](../.gitbook/assets/%E5%9B%BE%E7%89%87.png)
 
-### 第3步: &#x20;
+### 第4步: &#x20;
 
 确认我的钱包地址 (0x5b4......5b9e) 被用于请求 IOB 股息。 点击 **"请求"** 按钮。
 
 ![](../.gitbook/assets/WX20220105-154325@2x.png)
 
-### 第4步: &#x20;
+### 第5步: &#x20;
 
 **"已请求!"**&#x20;
 
